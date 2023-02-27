@@ -1,5 +1,6 @@
 <?php include ('includes/header.php'); ?>
   <body>
+
     <?php include ('includes/navbar.php'); ?>
 
     <section class="ins-banner-sec">
@@ -24,8 +25,8 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Face Procedures</h5>
-              <h1>Enlightened Facial Features & Brighter Smiles</h1>
-              
+              <h1> Enlightened Facial Features & Brighter Smiles</h1>
+             
             </div>
           </div>
         </div>
@@ -44,8 +45,9 @@
     </section>
 
     <main class="content-sec con-no-pd content-bg" data-aos="">
-<section class="section-sec sec-btm-pd">
-      <div class="container-xxl">  
+        <section class="section-sec sec-btm-pd">
+      <div class="container-xxl">
+          
         <div class="row">
             
             
@@ -56,7 +58,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>24 Karat Gold Facial </h2>
+              <h2>Red Carpet PRP </h2>
               <div class="hd-line"></div>
             </div>
           </div>
@@ -90,29 +92,21 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/24carat-img02.jpg" alt="Image" />
+                        <img src="images/red-carpet-01.jpg" alt="Image" />
                       </div>
-                      
-                      
+                      <div class="carousel-item">
+                        <img src="images/red-carpet-02.jpg" alt="Image" />
+                      </div>
                     </div>
                   </div>
                 </div>
               </figure>
               <div class="service-it-body">
                 <div class="service-it-con">
-               
+                 
                   <h4>
-                      Throughout history gold has been revered for its luxurious and beautifying properties.</h4>
-                      
-                      <p>Dating back to the time of Cleopatra, pure gold was used as a tool to maintain youthful skin, Cleopatra slept in a gold mask every night.</p>
-                    
-                    <h4>Benefits</h4>
-                    
-                    <ul>
-                    <li>Lift and Firm</li>
-                    <li>Reduce the Appearance of Fine Lines and Wrinkles</li>
-                    <li>Eradicates Free Radicals</li>
-                    </ul>
+The red carpet treatment mixes PRP and Mesotherapy based on high concentrates of antioxidants, vitamins and hyaluronic acid that promotes regeneration of collagen and acts as a boost of overall skin health.
+                    </h4>
                     
                   <a class="btn btn-schedule" href="javascript:;"
                     >Schedule an Appointment</a
@@ -123,8 +117,7 @@
           </div>
         </div>
       </div>
-    
-      </section>
+         </section>
     </main>
 
     <?php include ('includes/footer.php'); ?>

@@ -1,5 +1,6 @@
 <?php include ('includes/header.php'); ?>
   <body>
+
     <?php include ('includes/navbar.php'); ?>
 
     <section class="ins-banner-sec">
@@ -23,8 +24,8 @@
         <div class="ins-banner-body">
           <div class="continer-xxl">
             <div class="ins-banner-content">
-              <h5>Face Procedures</h5>
-              <h1>Enlightened Facial Features & Brighter Smiles</h1>
+              <h5>Healthness</h5>
+              <h1>Intravenous therapy: IV drips</h1>
               
             </div>
           </div>
@@ -44,30 +45,29 @@
     </section>
 
     <main class="content-sec con-no-pd content-bg" data-aos="">
-<section class="section-sec sec-btm-pd">
-      <div class="container-xxl">  
-        <div class="row">
-            
-            
-          <div class="col-12">
+        <section class="section-sec sec-btm-pd">
+        <div class="container-xxl">
+          <div class="row">
+          
+               <div class="col-12">
             <div
               class="page-hd"
               data-aos="fade-up"
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>24 Karat Gold Facial </h2>
+              <h2>Body booster </h2>
               <div class="hd-line"></div>
             </div>
-          </div>
-            
+          </div>    
+       
           <div class="col-12">
             <div
               class="service-item-cover"
               data-aos="fade-up"
               data-aos-delay="200"
               data-aos-duration="1500"
-            >
+            >  
               <figure>
                 <div class="parallax-effect service-parallax">
                   <div class="layer" data-depth="0.4">
@@ -90,28 +90,28 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/24carat-img02.jpg" alt="Image" />
+                        <img src="images/iv-drips-img03.jpg" alt="Image" />
                       </div>
-                      
-                      
+                     
                     </div>
                   </div>
                 </div>
               </figure>
               <div class="service-it-body">
                 <div class="service-it-con">
-               
+                  
                   <h4>
-                      Throughout history gold has been revered for its luxurious and beautifying properties.</h4>
-                      
-                      <p>Dating back to the time of Cleopatra, pure gold was used as a tool to maintain youthful skin, Cleopatra slept in a gold mask every night.</p>
+                      The body booster is a tailored multi mineral & vitamin necessary to make you always feel and look great.</h4>
+                    <p> With a mix of super-antioxidant, immunity booster and detox infusion, these are reported to give you a total wellness and prevention of any further disorder.
+
+                  </p>
                     
-                    <h4>Benefits</h4>
+                    <h4>Highlights of Key Ingredients</h4>
                     
                     <ul>
-                    <li>Lift and Firm</li>
-                    <li>Reduce the Appearance of Fine Lines and Wrinkles</li>
-                    <li>Eradicates Free Radicals</li>
+                    <li>Revitalize your body</li>
+                    <li>Improves immunity</li>
+                     <li>Antioxidant replenishment </li>
                     </ul>
                     
                   <a class="btn btn-schedule" href="javascript:;"
@@ -121,10 +121,11 @@
               </div>
             </div>
           </div>
+            
+            </div>
         </div>
-      </div>
-    
       </section>
+          
     </main>
 
     <?php include ('includes/footer.php'); ?>

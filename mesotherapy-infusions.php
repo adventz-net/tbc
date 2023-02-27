@@ -1,5 +1,6 @@
 <?php include ('includes/header.php'); ?>
   <body>
+
     <?php include ('includes/navbar.php'); ?>
 
     <section class="ins-banner-sec">
@@ -23,9 +24,9 @@
         <div class="ins-banner-body">
           <div class="continer-xxl">
             <div class="ins-banner-content">
-              <h5>Face Procedures</h5>
-              <h1>Enlightened Facial Features & Brighter Smiles</h1>
-              
+              <h5>Body Procedures</h5>
+              <h1>Skin Health Enhancement & Regeneration</h1>
+             
             </div>
           </div>
         </div>
@@ -44,19 +45,20 @@
     </section>
 
     <main class="content-sec con-no-pd content-bg" data-aos="">
-<section class="section-sec sec-btm-pd">
-      <div class="container-xxl">  
+      <section class="section-sec sec-btm-pd">
+      <div class="container-xxl">
+          
         <div class="row">
             
             
           <div class="col-12">
             <div
-              class="page-hd"
+               class="page-hd"
               data-aos="fade-up"
-              data-aos-delay="100"
+              data-aos-delay="200"
               data-aos-duration="1500"
             >
-              <h2>24 Karat Gold Facial </h2>
+                <h2>Mesotherapy Infusions</h2>
               <div class="hd-line"></div>
             </div>
           </div>
@@ -90,30 +92,32 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/24carat-img02.jpg" alt="Image" />
+                        <img src="images/mesotherapy-infusions-01.jpg" alt="Image" />
                       </div>
-                      
-                      
                     </div>
                   </div>
                 </div>
               </figure>
               <div class="service-it-body">
                 <div class="service-it-con">
-               
+                 
                   <h4>
-                      Throughout history gold has been revered for its luxurious and beautifying properties.</h4>
-                      
-                      <p>Dating back to the time of Cleopatra, pure gold was used as a tool to maintain youthful skin, Cleopatra slept in a gold mask every night.</p>
-                    
-                    <h4>Benefits</h4>
-                    
-                    <ul>
-                    <li>Lift and Firm</li>
-                    <li>Reduce the Appearance of Fine Lines and Wrinkles</li>
-                    <li>Eradicates Free Radicals</li>
-                    </ul>
-                    
+                    Meso infusion can restore soft, radiant and hydrated skin.
+                  </h4>
+                  <p>
+                    By incorporating nourishing ingredients cocktails, Meso
+                    infusion can treat a variety of skin concerns to reveal
+                    healthy, youthful skin.
+                  </p>
+                  <h4>Main skin issues treated:</h4>
+                  <ul>
+                    <li>Fine lines and scars</li>
+                    <li>Acne</li>
+                    <li>Enlarged pores</li>
+                    <li>Hyperpigmentation</li>
+                    <li>Rough skin</li>
+                    <li>Dry or oily skin</li>
+                  </ul>
                   <a class="btn btn-schedule" href="javascript:;"
                     >Schedule an Appointment</a
                   >
@@ -123,8 +127,7 @@
           </div>
         </div>
       </div>
-    
-      </section>
+        </section>
     </main>
 
     <?php include ('includes/footer.php'); ?>

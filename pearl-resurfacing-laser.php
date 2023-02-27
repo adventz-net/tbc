@@ -1,5 +1,6 @@
 <?php include ('includes/header.php'); ?>
   <body>
+
     <?php include ('includes/navbar.php'); ?>
 
     <section class="ins-banner-sec">
@@ -24,8 +25,8 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Face Procedures</h5>
-              <h1>Enlightened Facial Features & Brighter Smiles</h1>
-              
+              <h1>Enlightened Facial Features & Brighter Smiles </h1>
+             
             </div>
           </div>
         </div>
@@ -44,11 +45,9 @@
     </section>
 
     <main class="content-sec con-no-pd content-bg" data-aos="">
-<section class="section-sec sec-btm-pd">
-      <div class="container-xxl">  
+      <section class="section-sec sec-top-pd">
+      <div class="container-xxl">
         <div class="row">
-            
-            
           <div class="col-12">
             <div
               class="page-hd"
@@ -56,11 +55,33 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>24 Karat Gold Facial </h2>
+              <h2>Pearl Resurfacing Laser</h2>
               <div class="hd-line"></div>
             </div>
           </div>
             
+                 <div class="col-12">
+              <div class="cate-video">
+                <div class="ratio ratio-16x9">
+                  <iframe
+                    src="videos/pearl-refusing.mp4"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen
+                  ></iframe>
+                </div>
+              </div>
+            </div>
+        </div>
+          
+        </div>
+      </section>
+       
+        
+      <section class="section-sec sec-btm-pd">
+      <div class="container-xxl">
+          
+        <div class="row">
           <div class="col-12">
             <div
               class="service-item-cover"
@@ -90,30 +111,30 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/24carat-img02.jpg" alt="Image" />
+                        <img src="images/pearl-laser-img01.jpg" alt="Image" />
                       </div>
-                      
-                      
                     </div>
                   </div>
                 </div>
               </figure>
               <div class="service-it-body">
                 <div class="service-it-con">
-               
+                 
                   <h4>
-                      Throughout history gold has been revered for its luxurious and beautifying properties.</h4>
-                      
-                      <p>Dating back to the time of Cleopatra, pure gold was used as a tool to maintain youthful skin, Cleopatra slept in a gold mask every night.</p>
+The fractional technology of Action II™ Erbium Yag Laser rejuvenation allows a painless procedure, a rapid healing process and minimal downtime.
+                  </h4>
                     
-                    <h4>Benefits</h4>
+                    <h4>Indications for Laser resurfacing:</h4>
                     
                     <ul>
-                    <li>Lift and Firm</li>
-                    <li>Reduce the Appearance of Fine Lines and Wrinkles</li>
-                    <li>Eradicates Free Radicals</li>
-                    </ul>
-                    
+                        <li>Shining Peel rejuvenation </li>
+                        <li>Scars: Acne Scars, Surgical Scars</li>
+                        <li> Large Pores</li>
+                        <li>Skin Tone</li>
+                        <li>Wrinkles </li>
+                        <li>Nevus-related & Epidermal Pigments </li>
+                    </ul> 
+                  
                   <a class="btn btn-schedule" href="javascript:;"
                     >Schedule an Appointment</a
                   >
@@ -122,9 +143,9 @@
             </div>
           </div>
         </div>
-      </div>
-    
-      </section>
+          </div>
+     </section>
     </main>
+        
 
     <?php include ('includes/footer.php'); ?>
