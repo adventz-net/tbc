@@ -2221,6 +2221,91 @@ input[type=number]::-webkit-inner-spin-button {
   margin: 0;
 }
 
+.discover-sec {
+  background-image: url(../images/discover-bg.jpg);
+  background-position: center top;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.discover-sec .col-dis-item {
+  flex: 0 0 20%;
+  max-width: 20%;
+}
+
+.discover-hd {
+  margin-bottom: 4rem;
+  text-align: center;
+}
+.discover-hd h3 {
+  position: relative;
+  color: var(--white);
+  font-size: 2.5rem;
+  font-family: var(--secondary-font-family);
+  font-weight: 600;
+  padding: 0 0 1rem 0;
+  margin: 0 0 1rem 0;
+}
+.discover-hd h3::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 60px;
+  height: 1px;
+  margin: 0 auto;
+  background-color: var(--color-100);
+}
+
+.dis-item-cover {
+  position: relative;
+  padding: 1.5rem;
+  margin: 0 0 1.5rem 0;
+  background-color: var(--white);
+}
+.dis-item-cover::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border: 0 solid transparent;
+  transition: 0.3s ease-out;
+}
+.dis-item-cover a {
+  position: relative;
+  display: block;
+}
+.dis-item-cover figure {
+  overflow: hidden;
+}
+.dis-item-cover figure img {
+  width: 100%;
+}
+.dis-item-cover .dis-item-body {
+  min-height: 70px;
+  text-align: center;
+}
+.dis-item-cover .dis-item-body h4 {
+  position: relative;
+  color: var(--bk-grade-900);
+  font-size: 1.25rem;
+  font-family: var(--secondary-font-family);
+  font-weight: var(--font-weight-medium);
+  margin: 0 0 0.5rem 0;
+}
+.dis-item-cover .dis-item-body .explore {
+  color: var(--bk-grade-900);
+  font-size: 1.125rem;
+}
+.dis-item-cover .dis-item-body .explore i {
+  margin-left: 1rem;
+}
+.dis-item-cover:hover::before {
+  border: 6px solid var(--color-100);
+}
+
 /* Loader CSS
 -------------------------------------------------- */
 .loader-overlay {

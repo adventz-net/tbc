@@ -55,7 +55,9 @@
                 data-aos-duration="1500"
               >
                 <h2>
-               Designed to make an improvement to your health, We curate tailor made programs to enhance wellbeing and longevity Well Span 200
+                  Designed to make an improvement to your health, We curate
+                  tailor made programs to enhance wellbeing and longevity Well
+                  Span 200
                 </h2>
                 <div class="hd-line"></div>
               </div>
@@ -81,25 +83,33 @@
                 </figure>
                 <div class="mission-body">
                   <div class="mission-item">
-                  
                     <p>
-                     Replenish your body nutrients simply and efficiently with our targeted IV Drips in order to enhance your fitness, energy levels and enhance your mood.<br>
-IV Infusions can also support the therapy and treatment of chronic conditions and acute illness.  </p>
- <p>
-Our Unique drips combine valuable nutrients and vitamins in concentrations higher than it is possible to take orally. This results in better absorption rates and better benefits than oral supplementation.
+                      Replenish your body nutrients simply and efficiently with
+                      our targeted IV Drips in order to enhance your fitness,
+                      energy levels and enhance your mood.<br />
+                      IV Infusions can also support the therapy and treatment of
+                      chronic conditions and acute illness.
                     </p>
-                      
-                     <p> Beauty code clinic provides numerous types of IV therapy, which are tailored to the specific needs and conditions of each patient. These can include everything from boosting your immune system to detoxifying and relaxing you.</p>
+                    <p>
+                      Our Unique drips combine valuable nutrients and vitamins
+                      in concentrations higher than it is possible to take
+                      orally. This results in better absorption rates and better
+                      benefits than oral supplementation.
+                    </p>
+
+                    <p>
+                      Beauty code clinic provides numerous types of IV therapy,
+                      which are tailored to the specific needs and conditions of
+                      each patient. These can include everything from boosting
+                      your immune system to detoxifying and relaxing you.
+                    </p>
                   </div>
-                 
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-
-     
 
       <section class="section-sec sec-btm-pd">
         <div class="container-xxl">
@@ -111,9 +121,7 @@ Our Unique drips combine valuable nutrients and vitamins in concentrations highe
                 data-aos-delay="100"
                 data-aos-duration="1500"
               >
-                <h2>
-                Why IV Infusion Therapy
-                </h2>
+                <h2>Why IV Infusion Therapy</h2>
                 <div class="hd-line"></div>
               </div>
             </div>
@@ -138,30 +146,48 @@ Our Unique drips combine valuable nutrients and vitamins in concentrations highe
                 </figure>
                 <div class="mission-body">
                   <div class="mission-item">
-                   <h2>The Benefits of IV Therapy</h2>
+                    <h2>The Benefits of IV Therapy</h2>
                     <p>
-                     A service that provides crucial micronutrients, directly into your bloodstream via an intravenous (IV) catheter inserted by a licensed medical professional. 
+                      A service that provides crucial micronutrients, directly
+                      into your bloodstream via an intravenous (IV) catheter
+                      inserted by a licensed medical professional.
                     </p>
-                      <p>
-                      Your body’s cells receive 100% bioavailable nutrients in the form of vitamins, minerals, amino acids, electrolytes and antioxidants, enhancing their biochemical processes and functions. 
-                      </p>
-                      
-                      <p>
-                      With intravenous nutritional therapy, you can increase the absorption of essential vitamins and minerals without having to ingest supplement doses in large quantities.
-                      </p>
-                      
-                      <p>
-                      The overall effect is more efficient cellular function and a pathway towards achieving your optimal health and vitality from the inside out.
-                      </p> 
-                      
-                       <h2>100% Absorption</h2>
-                      <p> Our bodies absorb 10-30% of vitamins contained in oral supplements; with the intravenous or intramuscular route, absorption is 100% as it’s delivered directly into the bloodstream.</p>
-                      
-                       <h2>Natural & Safe</h2>
-                      <p>Our treatments are prescribed by a qualified practitioner upon a comprehensive medical consultation. <br>Beauty code uses high-quality ingredients while ensuring all protocols are registered and approved by local health authorities.</p>
-                                      
+                    <p>
+                      Your body’s cells receive 100% bioavailable nutrients in
+                      the form of vitamins, minerals, amino acids, electrolytes
+                      and antioxidants, enhancing their biochemical processes
+                      and functions.
+                    </p>
+
+                    <p>
+                      With intravenous nutritional therapy, you can increase the
+                      absorption of essential vitamins and minerals without
+                      having to ingest supplement doses in large quantities.
+                    </p>
+
+                    <p>
+                      The overall effect is more efficient cellular function and
+                      a pathway towards achieving your optimal health and
+                      vitality from the inside out.
+                    </p>
+
+                    <h2>100% Absorption</h2>
+                    <p>
+                      Our bodies absorb 10-30% of vitamins contained in oral
+                      supplements; with the intravenous or intramuscular route,
+                      absorption is 100% as it’s delivered directly into the
+                      bloodstream.
+                    </p>
+
+                    <h2>Natural & Safe</h2>
+                    <p>
+                      Our treatments are prescribed by a qualified practitioner
+                      upon a comprehensive medical consultation. <br />Beauty
+                      code uses high-quality ingredients while ensuring all
+                      protocols are registered and approved by local health
+                      authorities.
+                    </p>
                   </div>
-                  
                 </div>
               </div>
             </div>
@@ -169,7 +195,162 @@ Our Unique drips combine valuable nutrients and vitamins in concentrations highe
         </div>
       </section>
 
-        
+      <section class="section-sec discover-sec">
+        <div class="container-xxl">
+          <div class="row">
+            <div class="col-12">
+              <div class="discover-hd">
+                <h3>
+                  Discover the beauty code extensive selection of IV drips and
+                  enjoy your journey with us
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Detox drip</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Body booster</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Anti-stress drip</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Iron boost</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Energy drip</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Detox drip</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Body booster</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Anti-stress drip</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Iron boost</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="javascript:;"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Energy drip</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
 
 
