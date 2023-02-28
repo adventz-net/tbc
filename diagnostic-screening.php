@@ -55,7 +55,8 @@
                 data-aos-duration="1500"
               >
                 <h2>
-              Discover our exclusive screening device “SO check” for the first time in Oman
+                  Discover our exclusive screening device “SO check” for the
+                  first time in Oman
                 </h2>
                 <div class="hd-line"></div>
               </div>
@@ -76,20 +77,22 @@
                     </div>
                   </div>
                   <div class="abt-mis-img">
-                    <img src="images/abt-mission-img.jpg" alt="Image" />
+                    <img src="images/diagnostic-device-01.jpg" alt="Image" />
                   </div>
                 </figure>
                 <div class="mission-body">
                   <div class="mission-item">
-                     <h3>What We Provide</h3>
-                    <h2>
-                    Immediate and non-invasive nutritionnel assessments, without drawing a blood sample.</h2>
- <p>
-Regular screening can help determine any physiological imbalances in the body to support prevention and overall wellbeing.
-                      </p>
-                      
+                    <h3>What We Provide</h3>
+                    <h3>
+                      Immediate and non-invasive nutritionnel assessments,
+                      without drawing a blood sample.
+                    </h3>
+                    <p>
+                      Regular screening can help determine any physiological
+                      imbalances in the body to support prevention and overall
+                      wellbeing.
+                    </p>
                   </div>
-                 
                 </div>
               </div>
             </div>
@@ -97,12 +100,9 @@ Regular screening can help determine any physiological imbalances in the body to
         </div>
       </section>
 
-     
-
       <section class="section-sec sec-btm-pd">
         <div class="container-xxl">
           <div class="row">
-              
             <div class="col-12">
               <div class="mission-cover">
                 <figure>
@@ -119,25 +119,33 @@ Regular screening can help determine any physiological imbalances in the body to
                     </div>
                   </div>
                   <div class="abt-mis-img">
-                    <img src="images/abt-philosophy-img.jpg" alt="Image" />
+                    <img src="images/diagnostic-device-02.jpg" alt="Image" />
                   </div>
                 </figure>
                 <div class="mission-body">
                   <div class="mission-item">
-                   <h2>The Oligo/Check is a reliable and scientifically proven device</h2>
+                    <h3>
+                      The Oligo/Check is a reliable and scientifically proven
+                      device
+                    </h3>
                     <p>
-A series of tests and comparative studies have been carried out by researchers who have put forth the correlation between the results of the Oligo/Check and the results of a laboratory. The results are based on our algorithms who physiological analysis approved by the scientific community.
+                      A series of tests and comparative studies have been
+                      carried out by researchers who have
+                      put forth the correlation between the results of the
+                      Oligo/Check and the results of a laboratory. The results
+                      are based on our algorithms who physiological analysis
+                      approved by the scientific community.
                     </p>
-                      <ul>
-                       <li>the physiological data is entered</li>   
-                      <li>the dermis is scanned via spectrometry</li>  
-                      <li>the data is processed and analyze by the Oligoscan app</li> 
-                      <li>the data is sent to and saved on a secured server </li>
-                      <li>e results can be consulted on your computer</li>
-                      </ul>  
-                                      
+                    <ul>
+                      <li>the physiological data is entered</li>
+                      <li>the dermis is scanned via spectrometry</li>
+                      <li>
+                        the data is processed and analyze by the Oligoscan app
+                      </li>
+                      <li>the data is sent to and saved on a secured server</li>
+                      <li>e results can be consulted on your computer</li>
+                    </ul>
                   </div>
-                  
                 </div>
               </div>
             </div>
@@ -145,7 +153,63 @@ A series of tests and comparative studies have been carried out by researchers w
         </div>
       </section>
 
-        
+      <section class="eavaluate-sec">
+        <div class="container-xxl">
+          <div class="row">
+            <div class="col-12">
+              <div class="evaluate-cover">
+                <figure>
+                  <img src="images/evaluate-hand-img.png" alt="Image" />
+                </figure>
+                <div class="evaluate-body">
+                  <h3>
+                    SO Check evaluates minerals, vitamins, trace-elements,
+                    oxidative stress and heavy metals by means of
+                    spectrophotometry directly in your office. It allows you to
+                    benefit from a quick and painless assessment.
+                  </h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-sec test-repo-sec">
+        <div class="container-xxl">
+          <div class="row">
+            <div class="col-12 col-md-8">
+              <div class="test-repo-graphics">
+                <img src="images/test-repo-img.jpg" alt="Image" />
+              </div>
+            </div>
+            <div class="col-12 col-md-4">
+              <ul class="test-repo-list">
+                <li class="test-repo-item">
+                  <h4>Minerals</h4>
+                  <h5>
+                    Deficiencies and excesses of minerals and trace elements
+                  </h5>
+                </li>
+                <li class="test-repo-item">
+                  <h4>Heavy metals</h4>
+                  <h5>Evaluation of a heavy metal excess</h5>
+                </li>
+                <li class="test-repo-item">
+                  <h4>Vitamins</h4>
+                  <h5>
+                    Assessment of the bioavailabitly of vitamins in tissues
+                  </h5>
+                </li>
+                <li class="test-repo-item">
+                  <h4>Oxidative Stress</h4>
+                  <h5>Responsable for ageing and numerous diseases</h5>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
 
 

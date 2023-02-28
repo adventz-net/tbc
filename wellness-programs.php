@@ -78,7 +78,7 @@
                     </div>
                   </div>
                   <div class="abt-mis-img">
-                    <img src="images/abt-mission-img.jpg" alt="Image" />
+                    <img src="images/wellness-provide.jpg" alt="Image" />
                   </div>
                 </figure>
                 <div class="mission-body">
@@ -141,7 +141,7 @@
                     </div>
                   </div>
                   <div class="abt-mis-img">
-                    <img src="images/abt-philosophy-img.jpg" alt="Image" />
+                    <img src="images/wellness-therapy.jpg" alt="Image" />
                   </div>
                 </figure>
                 <div class="mission-body">
@@ -201,7 +201,7 @@
             <div class="col-12">
               <div class="discover-hd">
                 <h3>
-                  Discover the beauty code extensive selection of IV drips and
+                  Discover the beauty code extensive selection of <br>IV drips and
                   enjoy your journey with us
                 </h3>
               </div>
@@ -210,9 +210,9 @@
           <div class="row">
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="detox-drip.php"
                   ><figure>
-                    <img src="images/dis-item-01.jpg" alt="Image" />
+                    <img src="images/detox-drip.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
                     <h4>Detox drip</h4>
@@ -224,12 +224,12 @@
             </div>
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="body-booster.php"
                   ><figure>
-                    <img src="images/dis-item-01.jpg" alt="Image" />
+                    <img src="images/body-booster-drip.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
-                    <h4>Body booster</h4>
+                    <h4>Body Booster</h4>
                     <div class="explore">
                       Explore <i class="bi bi-arrow-down-right"></i>
                     </div></div
@@ -238,12 +238,12 @@
             </div>
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="anti-stress-drip.php"
                   ><figure>
-                    <img src="images/dis-item-01.jpg" alt="Image" />
+                    <img src="images/anti-stress-drip.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
-                    <h4>Anti-stress drip</h4>
+                    <h4>Anti-stress Drip</h4>
                     <div class="explore">
                       Explore <i class="bi bi-arrow-down-right"></i>
                     </div></div
@@ -252,12 +252,12 @@
             </div>
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="iron-boost.php"
                   ><figure>
                     <img src="images/dis-item-01.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
-                    <h4>Iron boost</h4>
+                    <h4>Iron Boost</h4>
                     <div class="explore">
                       Explore <i class="bi bi-arrow-down-right"></i>
                     </div></div
@@ -266,12 +266,12 @@
             </div>
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="energy-drip.php"
                   ><figure>
-                    <img src="images/dis-item-01.jpg" alt="Image" />
+                    <img src="images/energy-drip.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
-                    <h4>Energy drip</h4>
+                    <h4>Energy Drip</h4>
                     <div class="explore">
                       Explore <i class="bi bi-arrow-down-right"></i>
                     </div></div
@@ -280,12 +280,12 @@
             </div>
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="female-balance-drip.php"
                   ><figure>
-                    <img src="images/dis-item-01.jpg" alt="Image" />
+                    <img src="images/female-drip.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
-                    <h4>Detox drip</h4>
+                    <h4>Female Balance Drip</h4>
                     <div class="explore">
                       Explore <i class="bi bi-arrow-down-right"></i>
                     </div></div
@@ -294,12 +294,12 @@
             </div>
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="glow-radiant-drip.php"
                   ><figure>
-                    <img src="images/dis-item-01.jpg" alt="Image" />
+                    <img src="images/glow-drip.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
-                    <h4>Body booster</h4>
+                    <h4>Glow and Radiant Drip</h4>
                     <div class="explore">
                       Explore <i class="bi bi-arrow-down-right"></i>
                     </div></div
@@ -308,12 +308,12 @@
             </div>
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="gut-support-drip.php"
                   ><figure>
-                    <img src="images/dis-item-01.jpg" alt="Image" />
+                    <img src="images/gut-drip.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
-                    <h4>Anti-stress drip</h4>
+                    <h4>Gut Support Drip</h4>
                     <div class="explore">
                       Explore <i class="bi bi-arrow-down-right"></i>
                     </div></div
@@ -322,32 +322,111 @@
             </div>
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="myers-cocktail.php"
                   ><figure>
                     <img src="images/dis-item-01.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
-                    <h4>Iron boost</h4>
+                    <h4>Myers Cocktail</h4>
                     <div class="explore">
                       Explore <i class="bi bi-arrow-down-right"></i>
                     </div></div
                 ></a>
               </div>
             </div>
+              
+              
             <div class="col-12 col-dis-item">
               <div class="dis-item-cover">
-                <a href="javascript:;"
+                <a href="myers-cocktail.php"
                   ><figure>
                     <img src="images/dis-item-01.jpg" alt="Image" />
                   </figure>
                   <div class="dis-item-body">
-                    <h4>Energy drip</h4>
+                    <h4>Hair Regenerate Drip</h4>
+                    <div class="hair-regenerate-drip.php">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+              
+              
+            <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="immune-boost.php"
+                  ><figure>
+                    <img src="images/immune-drip.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Immune Boost</h4>
                     <div class="explore">
                       Explore <i class="bi bi-arrow-down-right"></i>
                     </div></div
                 ></a>
               </div>
             </div>
+              
+               <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="liver-detox-drip.php"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Liver Detox Drip</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+              
+               <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="NAD-drip.php"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>NAD Drip</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+              
+               <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="jet-lag.php"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Jet Lag</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+              
+               <div class="col-12 col-dis-item">
+              <div class="dis-item-cover">
+                <a href="weight-loss-drip.php"
+                  ><figure>
+                    <img src="images/dis-item-01.jpg" alt="Image" />
+                  </figure>
+                  <div class="dis-item-body">
+                    <h4>Weight loss Drip</h4>
+                    <div class="explore">
+                      Explore <i class="bi bi-arrow-down-right"></i>
+                    </div></div
+                ></a>
+              </div>
+            </div>
+              
           </div>
         </div>
       </section>
