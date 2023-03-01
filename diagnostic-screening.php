@@ -82,11 +82,11 @@
                 </figure>
                 <div class="mission-body">
                   <div class="mission-item">
-                    <h3>What We Provide</h3>
-                    <h3>
+                    
+                    <p>
                       Immediate and non-invasive nutritionnel assessments,
                       without drawing a blood sample.
-                    </h3>
+                    </p>
                     <p>
                       Regular screening can help determine any physiological
                       imbalances in the body to support prevention and overall
@@ -137,13 +137,13 @@
                       approved by the scientific community.
                     </p>
                     <ul>
-                      <li>the physiological data is entered</li>
-                      <li>the dermis is scanned via spectrometry</li>
+                      <li>The physiological data is entered</li>
+                      <li>The dermis is scanned via spectrometry</li>
                       <li>
-                        the data is processed and analyze by the Oligoscan app
+                        The data is processed and analyze by the Oligoscan app
                       </li>
-                      <li>the data is sent to and saved on a secured server</li>
-                      <li>e results can be consulted on your computer</li>
+                      <li>The data is sent to and saved on a secured server</li>
+                      <li>The results can be consulted on your computer</li>
                     </ul>
                   </div>
                 </div>
@@ -158,9 +158,6 @@
           <div class="row">
             <div class="col-12">
               <div class="evaluate-cover">
-                <figure>
-                  <img src="images/evaluate-hand-img.png" alt="Image" />
-                </figure>
                 <div class="evaluate-body">
                   <h3>
                     SO Check evaluates minerals, vitamins, trace-elements,
@@ -169,6 +166,9 @@
                     benefit from a quick and painless assessment.
                   </h3>
                 </div>
+                <figure>
+                  <img src="images/evaluate-hand-img.png" alt="Image" />
+                </figure>
               </div>
             </div>
           </div>

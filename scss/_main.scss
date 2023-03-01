@@ -2416,7 +2416,7 @@ input[type="number"]::-webkit-inner-spin-button {
     color: var(--white);
     font-size: 2.5rem;
     font-family: var(--secondary-font-family);
-    font-weight: 600;
+    font-weight: var(--font-weight-semi-bold);
     padding: 0 0 1rem 0;
     margin: 0 0 1rem 0;
     &::after {
@@ -2503,7 +2503,6 @@ input[type="number"]::-webkit-inner-spin-button {
     flex: 0 0 450px;
     max-width: 450px;
     margin: 0 0 0 2rem;
-    order: 2;
     img {
       width: 100%;
     }

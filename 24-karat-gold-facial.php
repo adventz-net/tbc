@@ -1,7 +1,7 @@
 <?php include ('includes/header.php'); ?>
   <body>
     <?php include ('includes/navbar.php'); ?>
-    
+
     <section class="ins-banner-sec">
       <div class="ins-banner-cover">
         <div

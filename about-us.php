@@ -43,8 +43,6 @@
       <?php include ('includes/nav-sticky.php'); ?>
     </section>
 
-    
-
     <main class="content-sec con-no-pd content-bg" data-aos="">
       <section class="section-sec">
         <div class="container-xxl">

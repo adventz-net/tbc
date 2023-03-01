@@ -2264,7 +2264,7 @@ input[type=number]::-webkit-inner-spin-button {
   color: var(--white);
   font-size: 2.5rem;
   font-family: var(--secondary-font-family);
-  font-weight: 600;
+  font-weight: var(--font-weight-semi-bold);
   padding: 0 0 1rem 0;
   margin: 0 0 1rem 0;
 }
@@ -2347,7 +2347,6 @@ input[type=number]::-webkit-inner-spin-button {
   flex: 0 0 450px;
   max-width: 450px;
   margin: 0 0 0 2rem;
-  order: 2;
 }
 .evaluate-cover figure img {
   width: 100%;
@@ -2820,6 +2819,13 @@ input[type=number]::-webkit-inner-spin-button {
   .copyright {
     text-align: center;
   }
+  .discover-hd h3 {
+    font-size: 2rem;
+  }
+  .discover-sec .col-dis-item {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
 }
 @media (max-width: 767px) {
   .banner-cover .banner-content h1 {
@@ -2919,6 +2925,21 @@ input[type=number]::-webkit-inner-spin-button {
   }
   .tag-item + .tag-item::before {
     display: none;
+  }
+  .eavaluate-sec {
+    padding-top: 2rem;
+  }
+  .evaluate-cover {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .evaluate-cover figure {
+    flex: unset;
+    max-width: 350px;
+    margin: 0 auto;
+  }
+  .evaluate-cover .evaluate-body h3 {
+    font-size: 1.25rem;
   }
 }
 @media (max-width: 576px) {
@@ -3109,5 +3130,21 @@ input[type=number]::-webkit-inner-spin-button {
   }
   .we-do-cover .we-do-body h3 {
     font-size: 1.5rem;
+  }
+  .test-repo-list .test-repo-item h4 {
+    font-size: 1.5rem;
+  }
+  .test-repo-list .test-repo-item {
+    padding: 0.25rem 0.25rem 0.25rem 1.25rem;
+  }
+  .discover-hd {
+    margin-bottom: 2rem;
+  }
+  .discover-hd h3 {
+    font-size: 1.5rem;
+  }
+  .discover-sec .col-dis-item {
+    flex: 0 0 50%;
+    max-width: 50%;
   }
 }/*# sourceMappingURL=style.css.map */
