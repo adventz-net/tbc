@@ -31,8 +31,8 @@
           <div class="continer-xxl">
             <div class="banner-content">
               <h1>A place to relax and recharge your body, beauty & soul</h1>
-              <a class="btn btn-shop" href="javascript;;">Special Offers</a>
-              <a class="btn btn-shop" href="javascript;;">Explore Clinic</a>
+             <!--  <a class="btn btn-shop" href="javascript;;">Special Offers</a>
+              <a class="btn btn-shop" href="javascript;;">Explore Clinic</a> -->
             </div>
           </div>
         </div>
@@ -121,7 +121,7 @@
                     comprehensive diagnostic and screenings to target the
                     concern of each unique client.
                   </p>
-                  <a class="btn btn-explore" href="javascript:;"
+                  <a class="btn btn-explore" href="about-us.php"
                     >Explore Clinic</a
                   >
                 </div>
@@ -361,6 +361,9 @@
                           <p>
                            Wellness consultation & mineral Tissue Heavy Metal Analysis 	
                           </p>
+                            <a class="btn-explore" href="diagnostic-screening.php"
+                      >Explore <i class="bi bi-arrow-down-right"></i
+                    ></a>
                         </div>
                       </div>
                     </div>
@@ -393,6 +396,9 @@
                             Intravenous therapy: IV drips  <br>
                            Intra-muscular therapy: booster shots 
                           </p>
+                             <a class="btn-explore" href="wellness-programs.php"
+                      >Explore <i class="bi bi-arrow-down-right"></i
+                    ></a>
                         </div>
                       </div>
                     </div>
@@ -428,7 +434,7 @@
                   </figure>
                   <div class="wellness-body">
                     <h4>Detox Drip</h4>
-                    <a class="btn-explore" href="javascript:;"
+                    <a class="btn-explore" href="detox-drip.php"
                       >Explore <i class="bi bi-arrow-down-right"></i
                     ></a>
                   </div>
@@ -445,8 +451,8 @@
                     </i>
                   </figure>
                   <div class="wellness-body">
-                    <h4>Revive Drip</h4>
-                    <a class="btn-explore" href="javascript:;"
+                    <h4>Body Booster</h4>
+                    <a class="btn-explore" href="body-booster.php"
                       >Explore <i class="bi bi-arrow-down-right"></i
                     ></a>
                   </div>
@@ -463,8 +469,8 @@
                     </i>
                   </figure>
                   <div class="wellness-body">
-                    <h4>Body booster</h4>
-                    <a class="btn-explore" href="javascript:;"
+                    <h4>Anti-stress Drip</h4>
+                    <a class="btn-explore" href="anti-stress-drip.php"
                       >Explore <i class="bi bi-arrow-down-right"></i
                     ></a>
                   </div>
@@ -481,8 +487,8 @@
                     </i>
                   </figure>
                   <div class="wellness-body">
-                    <h4>Anti-stress drip</h4>
-                    <a class="btn-explore" href="javascript:;"
+                    <h4>Glow and Radiant Drip</h4>
+                    <a class="btn-explore" href="glow-radiant-drip.php"
                       >Explore <i class="bi bi-arrow-down-right"></i
                     ></a>
                   </div>

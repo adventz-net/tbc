@@ -778,12 +778,16 @@ input[type="number"]::-webkit-inner-spin-button {
     flex: 0 0 45%;
     max-width: 625px;
     margin: 0 3rem 0 0;
+    img {
+      width: 100%;
+    }
   }
   .about-site-body {
     position: relative;
     flex: 1 0 0%;
   }
   .about-site-con {
+    position: relative;
     max-width: 550px;
     .about-site-hd {
       margin-bottom: 2rem;
@@ -801,20 +805,20 @@ input[type="number"]::-webkit-inner-spin-button {
       h5 {
         color: var(--color-300);
         font-size: 1.125rem;
-        font-weight: 600;
+        font-weight: var(--font-weight-semi-bold);
         margin: 0;
         text-transform: uppercase;
       }
       h3 {
         color: var(--color-300);
         font-size: 1.875rem;
-        font-weight: 600;
+        font-weight: var(--font-weight-semi-bold);
         text-transform: uppercase;
       }
       h4 {
         color: var(--color-300);
         font-size: 1.25rem;
-        font-weight: 600;
+        font-weight: var(--font-weight-semi-bold);
         margin: 0;
         text-transform: uppercase;
       }

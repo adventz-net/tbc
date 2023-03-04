@@ -45,6 +45,8 @@
     </section>
 
     <main class="content-sec con-no-pd content-bg" data-aos="">
+     
+         
         <section class="section-sec sec-btm-pd">
         <div class="container-xxl">
           <div class="row">
@@ -56,7 +58,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Glow and radiant drip </h2>
+              <h2>Bariatric and post operative drip</h2>
               <div class="hd-line"></div>
             </div>
           </div>    
@@ -90,7 +92,7 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/iv-drips-img14.jpg" alt="Image" />
+                        <img src="images/iv-drips-img08.jpg" alt="Image" />
                       </div>
                      
                     </div>
@@ -101,18 +103,13 @@
                 <div class="service-it-con">
                   
                   <h4>
-Glow and radiant drip which is vital on detoxifying the skin. 
+Surgical bariatric procedures are effective for weight loss in the long-term, but are also very invasive. 
 </h4>
-                    <p>A program which supports clients with concerns regarding the skin health, radiance and pigmentation.
-                  </p>
+                    <p>Many patients report hormonal imbalance, post-surgical complications and nutrient deficiencies.</p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
-                    
-                    <ul>
-                    <li>powerful anti-oxidants </li>
-                    <li>skin improving minerals</li>
-                        <li>Skin health</li>
-                    </ul>
+                   <p>
+Most people notice that they feel better within hours of administration. Getting IV therapy after bariatric surgeries for restoring vital nutrients in the body.
+                    </p>
                     
                   <a class="btn btn-schedule" href="javascript:;"
                     >Schedule an Appointment</a

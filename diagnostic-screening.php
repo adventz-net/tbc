@@ -158,6 +158,9 @@
           <div class="row">
             <div class="col-12">
               <div class="evaluate-cover">
+                <figure>
+                  <img src="images/evaluate-hand-img.png" alt="Image" />
+                </figure>
                 <div class="evaluate-body">
                   <h3>
                     SO Check evaluates minerals, vitamins, trace-elements,
@@ -166,9 +169,6 @@
                     benefit from a quick and painless assessment.
                   </h3>
                 </div>
-                <figure>
-                  <img src="images/evaluate-hand-img.png" alt="Image" />
-                </figure>
               </div>
             </div>
           </div>

@@ -271,6 +271,7 @@
     margin-left: 1rem;
   }
   .ins-banner-sec .navbar-sticky {
+    display: none;
     height: 56px;
   }
   .about-slider {
@@ -425,6 +426,28 @@
   }
   .evaluate-cover .evaluate-body h3 {
     font-size: 1.25rem;
+  }
+  .about-site {
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .about-site figure {
+    flex: unset;
+    max-width: unset;
+    margin: 0 0 2rem 0;
+  }
+  .about-site .about-site-con .about-highlight h5 {
+    font-size: 1rem;
+  }
+  .about-site .about-site-con .about-highlight h3 {
+    font-size: 1.5rem;
+  }
+  .about-site .about-site-con .about-highlight h4 {
+    font-size: 1.125rem;
+  }
+  .about-site .about-site-con .btn-explore {
+    margin: 1rem 0 0 0;
   }
 }
 

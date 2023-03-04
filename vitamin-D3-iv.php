@@ -45,6 +45,7 @@
     </section>
 
     <main class="content-sec con-no-pd content-bg" data-aos="">
+   
         <section class="section-sec sec-btm-pd">
         <div class="container-xxl">
           <div class="row">
@@ -56,7 +57,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Glow and radiant drip </h2>
+              <h2>Intra-muscular booster shots - Vitamin D3</h2>
               <div class="hd-line"></div>
             </div>
           </div>    
@@ -90,7 +91,7 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/iv-drips-img14.jpg" alt="Image" />
+                        <img src="images/iv-drips-img11.jpg" alt="Image" />
                       </div>
                      
                     </div>
@@ -101,17 +102,15 @@
                 <div class="service-it-con">
                   
                   <h4>
-Glow and radiant drip which is vital on detoxifying the skin. 
-</h4>
-                    <p>A program which supports clients with concerns regarding the skin health, radiance and pigmentation.
-                  </p>
+It reserves the negative effects of vitamin D deficiency by raising the vitamin D levels safely and effectively also keeps your bones and teeth healthy and supports your immune system.</h4>
                     
                     <h4>Highlights of Key Ingredients</h4>
                     
                     <ul>
-                    <li>powerful anti-oxidants </li>
-                    <li>skin improving minerals</li>
-                        <li>Skin health</li>
+                    <li>Maintains bone density and bone health</li>
+                    <li>Supports the immune system</li>
+                        <li>Helps the absorption of calcium and phosphate in the body (these are essential for muscles, teeth, and bones)</li>
+                        <li>Prevent osteoporosis </li>
                     </ul>
                     
                   <a class="btn btn-schedule" href="javascript:;"

@@ -875,7 +875,7 @@
 
                   ><figure>
 
-                    <img src="images/weight-loss-iv.jpg" alt="Image" />
+                    <img src="images/bariatric-iv.jpg" alt="Image" />
 
                   </figure>
 
@@ -904,7 +904,7 @@
 
                   ><figure>
 
-                    <img src="images/weight-loss-iv.jpg" alt="Image" />
+                    <img src="images/vitamin-d3.jpg" alt="Image" />
 
                   </figure>
 
