@@ -2774,6 +2774,7 @@ input[type=number]::-webkit-inner-spin-button {
     padding-right: 0;
   }
   .navbar-sticky {
+    display: none;
     flex-direction: row;
     left: 0;
     right: 0;
