@@ -90,7 +90,7 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/iv-drips-img04.jpg" alt="Image" />
+                        <img src="images/iv-drips-img22.jpg" alt="Image" />
                       </div>
                      
                     </div>
@@ -101,16 +101,16 @@
                 <div class="service-it-con">
                   
                   <h4>
-Vitamins and minerals in this drip help cleanse your liver from body toxins. </h4>
+Weight loss drip consists of both essential and non-essential amino acids that helps to supplement the amino acids necessary for muscle building.  </h4>
                     
-                    <p>Hydration, antioxidant and ability to return to life after overindulging and bringing your life to filling like you are replenished restored and revitalized.</p>
+                    <p>This also supplements a group of amino acids called branched chain amino acids. Branched chain amino acids had been reported and well known to induce lipolysis (fat breakdown) and muscle synthesis.</p>
                     
                     <h4>Highlights of Key Ingredients</h4>
                     
                     <ul>
-                    <li>Replenishes electrolytes</li>
-                    <li>Helps reduce oxidative stress</li>
-                        <li>Promotes brain health</li>
+                    <li>Helps promote lean muscle building</li>
+                    <li>Aids with muscle recovery </li>
+                        <li>Fat breakdown </li>
                     </ul>
                     
                   <a class="btn btn-schedule" href="javascript:;"

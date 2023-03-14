@@ -174,7 +174,7 @@
                   <a class="ft-nav" href="hair-PRP-rejuvenation.php">PRP Rejuvenation</a>
                 </li>
                 <li class="ft-item">
-                  <a class="ft-nav" href="hair-red-carpet-PRP.php">Red cCarpet PRP</a>
+                  <a class="ft-nav" href="hair-red-carpet-PRP.php">Red Carpet PRP</a>
                 </li>
                 <li class="ft-item">
                   <a class="ft-nav" href="hydra-scalp-keravive.php">Hydra scalp keravive </a>

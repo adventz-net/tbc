@@ -59,7 +59,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#"
+            <a class="nav-link" href="coming-soon.php"
               ><span class="nav-block">Surgical</span></a
             >
           </li>
@@ -480,9 +480,9 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a class="dropdown-item" href="#">Diagnostic & Screening</a>
+                <a class="dropdown-item" href="diagnostic-screening.php">Diagnostic & Screening</a>
               </li>
-              <li><a class="dropdown-item" href="#">Wellness Programs</a></li>
+              <li><a class="dropdown-item" href="wellness-programs.php">Wellness Programs</a></li>
             </ul>
           </li>
 

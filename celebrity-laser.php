@@ -128,14 +128,14 @@ Lasemd is an intelligent skin rejuvenation program that maximizes the absorption
                     
                     <ul>
                     <li>
-<strong>Lasemd Laser:</strong> Creates micro channels through the skin, Creates small reservoirs under the surface of the skin.
+<strong>Lasemd Laser:</strong> Creates micro channels through the skin, creates small reservoirs under the surface of the skin.
                   </li>
                     
               <li><strong>Lasemd NanoSerums:</strong>
 Nanoparticles contained the reservoirs for deep absorption in the skin. </li>
 
 <li><strong>Lasemd Cream:</strong>
-Traps Moisture and provides hydration. </li>
+Traps moisture and provides hydration. </li>
 
 <li><strong>Lasemd Mask:</strong>
 Retains the active ingredients of the serums. </li>

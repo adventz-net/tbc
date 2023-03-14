@@ -105,7 +105,7 @@
                    
                     <p>This IV is formulated to improve your stress response, support adrenal function, and elevate your mood with body-balancing ingredients.</p>
                     
-                    <p>The “Mitochondrial Free Radical Theory of Aging” (MFRTA) hypothesizes that the gradual and continuous production of reactive oxygen species (ROS) in mitochondria can cause oxidative lesions in mitochondrial DNA (mtDNA), with resultant mitochondrial dysfunction. Reactive oxygen species believed to be minimized by administering several anti-oxidants . Anti-stress and Antioxidant iv contain Selenium, Vitamin C, Zinc and Alpha-lipoic acid which are all said to be effective antioxidants.
+                    <p>The “Mitochondrial Free Radical Theory of Aging” (MFRTA) hypothesizes that the gradual and continuous production of reactive oxygen species (ROS) in mitochondria can cause oxidative lesions in mitochondrial DNA (mtDNA), with resultant mitochondrial dysfunction. Reactive oxygen species believed to be minimized by administering several anti-oxidants. Anti-stress and Antioxidant IV contain Selenium, Vitamin C, Zinc and Alpha-lipoic acid which are all said to be effective antioxidants.
                   </p>
                     
                     <h4>Highlights of Key Ingredients</h4>

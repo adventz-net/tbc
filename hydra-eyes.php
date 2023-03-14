@@ -105,14 +105,17 @@
                 <div class="service-it-con">
                     
                   <h4>
-HydraFacial Perk uses patented roller-flex technology to: Loosen dirt, oil and dead skin cell, gently cleanse and hydrate the delicate eye areas, deliver antioxidants and nutrients.</h4>
-                  
-                     <h4>Benefits</h4>
-                    
-                    <ul>
-                    <li>It also firms, tones, and brightens around your eyes </li>
-                     <li>Hydra Facial Perk Eye reduces puffiness, dark circles, fine lines, and wrinkles brightening the appearance of your eyes.</li>
+HydraFacial Perk uses patented roller-flex technology to: </h4>
+                       <ul>
+                           <li>Loosen dirt, oil and dead skin cell</li>
+                           <li>Gently cleanse and hydrate the delicate eye areas</li>
+                           <li>Deliver antioxidants and nutrients</li>
                     </ul>
+                    
+                    <p>
+                        It also firms, tones, and brightens around your eyes.</p>
+                    <p>Hydra Facial Perk Eye reduces puffiness, dark circles, fine lines, and wrinkles brightening the appearance of your eyes.
+                    </p>
                     
                    
                   <a class="btn btn-schedule" href="javascript:;"

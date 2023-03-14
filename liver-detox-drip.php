@@ -103,7 +103,7 @@
                   <h4>
 Cleanse and support your liver against oxidative stress. 
 </h4>
-                    <p>Treatment with our formula improved ALT levels. Depending on the extent of mitochondrial damage, NF-κB inhibition and JNK activation, hepatocytes may either undergo different modes of cell death (apoptosis or necrosis) or be sensitized to cell-death stimuli (i.e. TNF-α). These processes have been implicated in the pathogenesis of many liver diseases. </p>
+                    <p>Treatment with our formula significantly improved ALT levels. Depending on the extent of mitochondrial damage, NF-κB inhibition and JNK activation, hepatocytes may either undergo different modes of cell death (apoptosis or necrosis) or be sensitized to cell-death stimuli (i.e. TNF-α). These processes have been implicated in the pathogenesis of many liver diseases. </p>
                     
                     <p>Several anti-oxidants are said to be beneficial for lessening mitochondrial damage.</p>
                     

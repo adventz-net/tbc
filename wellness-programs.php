@@ -112,13 +112,7 @@
 
                 <h2>
 
-                  Designed to make an improvement to your health, We curate
-
-                  tailor made programs <br>to enhance wellbeing and longevity Well
-
-                  Span 200
-
-                </h2>
+Designed to make an improvement to your health                </h2>
 
                 <div class="hd-line"></div>
 
@@ -167,6 +161,12 @@
                 <div class="mission-body">
 
                   <div class="mission-item">
+                      
+                      <div class="about-highlight">
+                    <h3>We curate tailor made programs to
+                   Enhance wellbeing and longevity </h3>
+                          <h4>Well Span 200</h4>
+                  </div>
 
                     <p>
 
@@ -418,7 +418,7 @@
 
                 <h3>
 
-                  Discover the beauty code extensive selection of <br>IV drips and
+                  Discover the beauty code extensive selection of <br>IV drips & shots and
 
                   enjoy your journey with us
 
@@ -910,7 +910,7 @@
 
                   <div class="dis-item-body">
 
-                    <h4>Vitamin D3</h4>
+                    <h4>Vitamin D3 shots </h4>
 
                     <div class="explore">
 
