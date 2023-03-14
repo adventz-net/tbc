@@ -263,12 +263,24 @@
     </section>
 
     <section class="section-sec promise-sec">
+    <div class="parallax-effect health-parallax">
+        <div class="layer" data-depth="0.4">
+          <div class="health-it-para health-para-01">
+            <img src="images/health-pearl-01.png" alt="Image" />
+          </div>
+        </div>
+        <div class="layer" data-depth="0.3">
+          <div class="health-it-para health-para-02">
+            <img src="images/health-pearl-02.png" alt="Image" />
+          </div>
+        </div>
+      </div>
       <div class="container-xxl">
         <div class="row">
           <div class="col-12">
             <div class="promise-cover">
               <div class="promise-logo">
-                <img src="images/tbc-white-logo.png" alt="Logo" />
+                <img src="images/quote-icon.png" alt="Quote" />
               </div>
               <h4>
                 The one stop clinic that will provide high end services with the
@@ -361,7 +373,7 @@
                           <p>
                            Wellness consultation & mineral Tissue Heavy Metal Analysis 	
                           </p>
-                            <a class="btn-explore" href="diagnostic-screening.php"
+                            <a class="btn btn-explore" href="diagnostic-screening.php"
                       >Explore <i class="bi bi-arrow-down-right"></i
                     ></a>
                         </div>
@@ -396,7 +408,7 @@
                             Intravenous therapy: IV drips  <br>
                            Intra-muscular therapy: booster shots 
                           </p>
-                             <a class="btn-explore" href="wellness-programs.php"
+                             <a class="btn btn-explore" href="wellness-programs.php"
                       >Explore <i class="bi bi-arrow-down-right"></i
                     ></a>
                         </div>
@@ -421,7 +433,7 @@
                 <h3>Intravenous therapy : IV drips</h3>
               </div>
               <div class="wellnewss-list">
-                <div class="wellness-item">
+                <a class="wellness-item" href="detox-drip.php">
                   <figure>
                     <i>
                       <img src="images/wellness-icon-01.png" alt="Icon" />
@@ -434,12 +446,12 @@
                   </figure>
                   <div class="wellness-body">
                     <h4>Detox Drip</h4>
-                    <a class="btn-explore" href="detox-drip.php"
+                    <div class="btn-explore"
                       >Explore <i class="bi bi-arrow-down-right"></i
-                    ></a>
+                    ></div>
                   </div>
-                </div>
-                <div class="wellness-item">
+                </a>
+                <a class="wellness-item" href="body-booster.php">
                   <figure>
                     <i>
                       <img src="images/wellness-icon-02.png" alt="Icon" />
@@ -452,12 +464,12 @@
                   </figure>
                   <div class="wellness-body">
                     <h4>Body Booster</h4>
-                    <a class="btn-explore" href="body-booster.php"
+                    <div class="btn-explore"
                       >Explore <i class="bi bi-arrow-down-right"></i
-                    ></a>
+                    ></div>
                   </div>
-                </div>
-                <div class="wellness-item">
+                </a>
+                <a class="wellness-item" href="anti-stress-drip.php">
                   <figure>
                     <i>
                       <img src="images/wellness-icon-03.png" alt="Icon" />
@@ -470,12 +482,12 @@
                   </figure>
                   <div class="wellness-body">
                     <h4>Anti-stress Drip</h4>
-                    <a class="btn-explore" href="anti-stress-drip.php"
+                    <div class="btn-explore"
                       >Explore <i class="bi bi-arrow-down-right"></i
-                    ></a>
+                    ></div>
                   </div>
-                </div>
-                <div class="wellness-item">
+                </a>
+                <a class="wellness-item" href="glow-radiant-drip.php">
                   <figure>
                     <i>
                       <img src="images/wellness-icon-04.png" alt="Icon" />
@@ -488,11 +500,11 @@
                   </figure>
                   <div class="wellness-body">
                     <h4>Glow and Radiant Drip</h4>
-                    <a class="btn-explore" href="glow-radiant-drip.php"
+                    <div class="btn-explore"
                       >Explore <i class="bi bi-arrow-down-right"></i
-                    ></a>
+                    ></div>
                   </div>
-                </div>
+                </a>
               </div>
             </div>
           </div>

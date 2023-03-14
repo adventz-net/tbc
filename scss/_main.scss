@@ -30,6 +30,7 @@
   // Fonts
   --primary-font-family: "Aileron";
   --secondary-font-family: "GT Super Display";
+  --tertiary-font-family: "Neville";
 
   //Font weight
   --font-weight-ex-light: 200;
@@ -105,6 +106,18 @@
     url("../fonts/GTSuperDisplay-Regular.woff2") format("woff2"),
     url("../fonts/GTSuperDisplay-Regular.woff") format("woff"),
     url("../fonts/GTSuperDisplay-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Neville";
+  src: url("../fonts/Neville.eot");
+  src: url("../fonts/Neville.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Neville.woff2") format("woff2"),
+    url("../fonts/Neville.woff") format("woff"),
+    url("../fonts/Neville.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -434,7 +447,8 @@ input[type="number"]::-webkit-inner-spin-button {
         transform: translateY(-50%);
         @include trans-ease-out();
       }
-      &:hover {
+      &:hover,
+      &.active {
         color: var(--color-100);
         &::after {
           color: var(--color-100);
@@ -1036,22 +1050,31 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 
 .promise-sec {
-  background-image: url(../images/pattern-brown.jpg);
+  background-image: url(../images/procedure-bg.png);
+  background-size: 100%;
+  background-position: center top;
+  background-attachment: fixed;
+  overflow: hidden;
 }
 
 .promise-cover {
+  position: relative;
   max-width: 1100px;
   margin: 0 auto;
   text-align: center;
+  z-index: 10;
   .promise-logo {
-    max-width: 64px;
+    max-width: 70px;
     margin: 0 auto 2rem;
+    img {
+      width: 100%;
+    }
   }
   h4 {
     color: var(--bk-grade-850);
-    font-size: 1.875rem;
-    font-family: var(--secondary-font-family);
-    font-weight: 600;
+    font-size: 3rem;
+    font-family: var(--tertiary-font-family);
+    font-weight: normal;
     margin: 0;
   }
 }
@@ -1176,20 +1199,6 @@ input[type="number"]::-webkit-inner-spin-button {
           font-weight: 600;
           margin: 0;
         }
-        // .arrow {
-        //   position: absolute;
-        //   right: 0;
-        //   top: 50%;
-        //   width: 26px;
-        //   height: 26px;
-        //   transform: rotateX(180deg);
-        //   @include trans-ease-out();
-        // }
-        // &.collapsed {
-        //   .arrow {
-        //     transform: rotateX(0);
-        //   }
-        // }
       }
     }
     .card-body {
@@ -1199,6 +1208,19 @@ input[type="number"]::-webkit-inner-spin-button {
       p {
         color: var(--bk-grade-950);
         margin: 0;
+      }
+      .btn-explore {
+        color: var(--bk-grade-850);
+        font-size: 0.875rem;
+        padding: 0.25rem 0.5rem;
+        margin: 1.5rem 0 0 0;
+        border: 1px solid #e0c083;
+        box-shadow: none;
+        &:hover {
+          color: var(--white);
+          background-color: var(--color-100);
+          border-color: var(--color-100);
+        }
       }
     }
   }

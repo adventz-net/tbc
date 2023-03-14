@@ -26,6 +26,7 @@
   --bk-grade-950: #0a0a0a;
   --primary-font-family: "Aileron";
   --secondary-font-family: "GT Super Display";
+  --tertiary-font-family: "Neville";
   --font-weight-ex-light: 200;
   --font-weight-light: 300;
   --font-weight-regular: normal;
@@ -70,6 +71,14 @@
   font-family: "GT Super Display";
   src: url("../fonts/GTSuperDisplay-Regular.eot");
   src: url("../fonts/GTSuperDisplay-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/GTSuperDisplay-Regular.woff2") format("woff2"), url("../fonts/GTSuperDisplay-Regular.woff") format("woff"), url("../fonts/GTSuperDisplay-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Neville";
+  src: url("../fonts/Neville.eot");
+  src: url("../fonts/Neville.eot?#iefix") format("embedded-opentype"), url("../fonts/Neville.woff2") format("woff2"), url("../fonts/Neville.woff") format("woff"), url("../fonts/Neville.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -388,10 +397,10 @@ input[type=number]::-webkit-inner-spin-button {
   transform: translateY(-50%);
   transition: 0.3s ease-out;
 }
-.dro-tb-nav li button:hover {
+.dro-tb-nav li button:hover, .dro-tb-nav li button.active {
   color: var(--color-100);
 }
-.dro-tb-nav li button:hover::after {
+.dro-tb-nav li button:hover::after, .dro-tb-nav li button.active::after {
   color: var(--color-100);
   right: 0;
 }
@@ -942,23 +951,32 @@ input[type=number]::-webkit-inner-spin-button {
 }
 
 .promise-sec {
-  background-image: url(../images/pattern-brown.jpg);
+  background-image: url(../images/procedure-bg.png);
+  background-size: 100%;
+  background-position: center top;
+  background-attachment: fixed;
+  overflow: hidden;
 }
 
 .promise-cover {
+  position: relative;
   max-width: 1100px;
   margin: 0 auto;
   text-align: center;
+  z-index: 10;
 }
 .promise-cover .promise-logo {
-  max-width: 64px;
+  max-width: 70px;
   margin: 0 auto 2rem;
+}
+.promise-cover .promise-logo img {
+  width: 100%;
 }
 .promise-cover h4 {
   color: var(--bk-grade-850);
-  font-size: 1.875rem;
-  font-family: var(--secondary-font-family);
-  font-weight: 600;
+  font-size: 3rem;
+  font-family: var(--tertiary-font-family);
+  font-weight: normal;
   margin: 0;
 }
 
@@ -1090,6 +1108,19 @@ input[type=number]::-webkit-inner-spin-button {
 .health-accordion .card .health-item p {
   color: var(--bk-grade-950);
   margin: 0;
+}
+.health-accordion .card .health-item .btn-explore {
+  color: var(--bk-grade-850);
+  font-size: 0.875rem;
+  padding: 0.25rem 0.5rem;
+  margin: 1.5rem 0 0 0;
+  border: 1px solid #e0c083;
+  box-shadow: none;
+}
+.health-accordion .card .health-item .btn-explore:hover {
+  color: var(--white);
+  background-color: var(--color-100);
+  border-color: var(--color-100);
 }
 
 .wellness-sec {
@@ -2832,6 +2863,9 @@ input[type=number]::-webkit-inner-spin-button {
     flex: 0 0 25%;
     max-width: 25%;
   }
+  .promise-cover h4 {
+    font-size: 2.5rem;
+  }
 }
 @media (max-width: 767px) {
   .banner-cover .banner-content h1 {
@@ -3034,8 +3068,12 @@ input[type=number]::-webkit-inner-spin-button {
   .procedure-item .proced-it-hd h3 {
     font-size: 1.5rem;
   }
+  .promise-cover .promise-logo {
+    max-width: 58px;
+    margin: 0 auto 1rem;
+  }
   .promise-cover h4 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
   }
   .health-goal h3 {
     font-size: 1.5rem;
