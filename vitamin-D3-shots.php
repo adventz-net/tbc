@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Healthness</h5>
-              <h1>Intravenous therapy: IV drips</h1>
+              <h1>Booster Shots</h1>
               
             </div>
           </div>
@@ -45,7 +45,7 @@
     </section>
 
     <main class="content-sec con-no-pd content-bg" data-aos="">
-         
+   
         <section class="section-sec sec-btm-pd">
         <div class="container-xxl">
           <div class="row">
@@ -57,7 +57,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Hair Regenerate drip</h2>
+              <h2>Intra-muscular booster shots - Vitamin D3</h2>
               <div class="hd-line"></div>
             </div>
           </div>    
@@ -91,11 +91,9 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/iv-drips-img22.jpg" alt="Image" />
+                        <img src="images/vitamin-shot.jpg" alt="Image" />
                       </div>
-                       <div class="carousel-item">
-                        <img src="images/iv-drips-img10.jpg" alt="Image" />
-                      </div>
+                     
                     </div>
                   </div>
                 </div>
@@ -104,21 +102,15 @@
                 <div class="service-it-con">
                   
                   <h4>
-This Drip is tailored to help the hair look glossy, healthy, and full. 
-</h4>
-                    <p>Recommended for clients suffering from hair loss and thinning hair, due to environmental factors and nutrient deficiencies. 
-                  </p>
-                    
-                    <p>Supplementing these deficient micronutrients can possibly improve premature graying.</p>
+It reserves the negative effects of vitamin D deficiency by raising the vitamin D levels safely and effectively also keeps your bones and teeth healthy and supports your immune system.</h4>
                     
                     <h4>Highlights of Key Ingredients</h4>
                     
                     <ul>
-                    <li>Boosts hair health on a cellular level
-</li>
-                    <li>Targets vitamins and minerals deficiencies</li>
-                        <li>Reduce hair dryness and improve collagen formation
-</li>
+                    <li>Maintains bone density and bone health</li>
+                    <li>Supports the immune system</li>
+                        <li>Helps the absorption of calcium and phosphate in the body (these are essential for muscles, teeth, and bones)</li>
+                        <li>Prevent osteoporosis </li>
                     </ul>
                     
                   <a class="btn btn-schedule" href="javascript:;"

@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Healthness</h5>
-              <h1>Intravenous therapy: IV drips</h1>
+              <h1>Booster Shots</h1>
               
             </div>
           </div>
@@ -45,7 +45,7 @@
     </section>
 
     <main class="content-sec con-no-pd content-bg" data-aos="">
-         
+   
         <section class="section-sec sec-btm-pd">
         <div class="container-xxl">
           <div class="row">
@@ -57,7 +57,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Hair Regenerate drip</h2>
+              <h2>Beauty B Shot</h2>
               <div class="hd-line"></div>
             </div>
           </div>    
@@ -91,11 +91,9 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/iv-drips-img22.jpg" alt="Image" />
+                        <img src="images/vitamin-shot.jpg" alt="Image" />
                       </div>
-                       <div class="carousel-item">
-                        <img src="images/iv-drips-img10.jpg" alt="Image" />
-                      </div>
+                     
                     </div>
                   </div>
                 </div>
@@ -104,21 +102,14 @@
                 <div class="service-it-con">
                   
                   <h4>
-This Drip is tailored to help the hair look glossy, healthy, and full. 
-</h4>
-                    <p>Recommended for clients suffering from hair loss and thinning hair, due to environmental factors and nutrient deficiencies. 
-                  </p>
-                    
-                    <p>Supplementing these deficient micronutrients can possibly improve premature graying.</p>
+The Beauty B Shot is formulated to help you glow from the inside out by supporting hair, skin, and nail health. </h4>
                     
                     <h4>Highlights of Key Ingredients</h4>
                     
                     <ul>
-                    <li>Boosts hair health on a cellular level
-</li>
-                    <li>Targets vitamins and minerals deficiencies</li>
-                        <li>Reduce hair dryness and improve collagen formation
-</li>
+                    <li>Hair, skin & nail support</li>
+                    <li>Support bone health & prevent osteoporosis</li>
+                        <li>Helps with red blood cell formation & anemia prevention</li>
                     </ul>
                     
                   <a class="btn btn-schedule" href="javascript:;"

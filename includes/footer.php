@@ -40,7 +40,7 @@
               <ul>
                 <li>
                   <span class="icon"><i class="bi bi-telephone-fill"></i></span
-                  ><a href="tel:+96890666993">(+968) 90666993</a>
+                  ><a href="tel:+96890666993">(+968) 9066 6993</a>
                 </li>
                 <li>
                   <span class="icon"><i class="bi bi-envelope-fill"></i></span
@@ -53,7 +53,7 @@
                   The Beauty code <br />
                   P.O Box 1802, PC 111, <br />
                   Airport Heights, <br />
-                  SUltanate of Oman
+                  Sultanate of Oman
                 </li>
               </ul>
             </div>

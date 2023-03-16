@@ -900,7 +900,7 @@ Designed to make an improvement to your health                </h2>
 
               <div class="dis-item-cover">
 
-                <a href="vitamin-D3-iv.php"
+                <a href="vitamin-D3-shots.php"
 
                   ><figure>
 
@@ -925,6 +925,120 @@ Designed to make an improvement to your health                </h2>
             </div>
 
               
+               <div class="col-12 col-dis-item">
+
+              <div class="dis-item-cover">
+
+                <a href="brain-B-shot.php"
+
+                  ><figure>
+
+                    <img src="images/vitamin-d3.jpg" alt="Image" />
+
+                  </figure>
+
+                  <div class="dis-item-body">
+
+                    <h4>Brain B Shot  </h4>
+
+                    <div class="explore">
+
+                      Explore <i class="bi bi-arrow-down-right"></i>
+
+                    </div></div
+
+                ></a>
+
+              </div>
+
+            </div>
+              
+              
+               <div class="col-12 col-dis-item">
+
+              <div class="dis-item-cover">
+
+                <a href="beauty-B-shot.php"
+
+                  ><figure>
+
+                    <img src="images/vitamin-d3.jpg" alt="Image" />
+
+                  </figure>
+
+                  <div class="dis-item-body">
+
+                    <h4>Beauty B Shot  </h4>
+
+                    <div class="explore">
+
+                      Explore <i class="bi bi-arrow-down-right"></i>
+
+                    </div></div
+
+                ></a>
+
+              </div>
+
+            </div>
+              
+              
+               <div class="col-12 col-dis-item">
+
+              <div class="dis-item-cover">
+
+                <a href="lean-B-shot.php"
+
+                  ><figure>
+
+                    <img src="images/vitamin-d3.jpg" alt="Image" />
+
+                  </figure>
+
+                  <div class="dis-item-body">
+
+                    <h4>Lean B Shot  </h4>
+
+                    <div class="explore">
+
+                      Explore <i class="bi bi-arrow-down-right"></i>
+
+                    </div></div
+
+                ></a>
+
+              </div>
+
+            </div>
+              
+              
+               <div class="col-12 col-dis-item">
+
+              <div class="dis-item-cover">
+
+                <a href="mix-B-complex.php"
+
+                  ><figure>
+
+                    <img src="images/vitamin-d3.jpg" alt="Image" />
+
+                  </figure>
+
+                  <div class="dis-item-body">
+
+                    <h4>Mix B complex   </h4>
+
+                    <div class="explore">
+
+                      Explore <i class="bi bi-arrow-down-right"></i>
+
+                    </div></div
+
+                ></a>
+
+              </div>
+
+            </div>
 
           </div>
 
