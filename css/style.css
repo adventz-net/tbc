@@ -2315,6 +2315,30 @@ input[type=number]::-webkit-inner-spin-button {
   background-color: var(--color-100);
 }
 
+.extensive-tb-nav {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-100);
+}
+.extensive-tb-nav .nav-item {
+  flex: 1 1 200px;
+  max-width: 200px;
+  margin: 0.25rem;
+}
+.extensive-tb-nav .nav-item .nav-link {
+  display: block;
+  width: 100%;
+  color: var(--color-100);
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid var(--color-100);
+}
+.extensive-tb-nav .nav-item .nav-link.active {
+  color: var(--white);
+  background-color: var(--color-100);
+}
+
 .dis-item-cover {
   position: relative;
   padding: 1.5rem;
