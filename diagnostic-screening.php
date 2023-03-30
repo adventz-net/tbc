@@ -55,7 +55,7 @@
                 data-aos-duration="1500"
               >
                 <h2>
-                  Discover our exclusive screening device “SO check” for the
+                  Discover our exclusive screening device “SO Check” for the
                   first time in Oman
                 </h2>
                 <div class="hd-line"></div>
@@ -84,12 +84,12 @@
                   <div class="mission-item">
                     
                     <p>
-                      Immediate and non-invasive nutritionnel assessments,
+                      Immediate and non-invasive nutritional assessments,
                       without drawing a blood sample.
                     </p>
                     <p>
                       Regular screening can help determine any physiological
-                      imbalances in the body to support prevention and overall
+                      imbalance in the body to support prevention and overall
                       wellbeing.
                     </p>
                   </div>
@@ -133,7 +133,7 @@
                       carried out by researchers who have
                       put forth the correlation between the results of the
                       Oligo/Check and the results of a laboratory. The results
-                      are based on our algorithms who physiological analysis
+                      are based on our algorithms by physiological analysis
                       approved by the scientific community.
                     </p>
                     <ul>

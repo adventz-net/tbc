@@ -57,7 +57,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Beauty B Shot</h2>
+              <h2>Vitamin K Shot</h2>
               <div class="hd-line"></div>
             </div>
           </div>    
@@ -91,7 +91,7 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/vitamin-shot.jpg" alt="Image" />
+                        <img src="images/k-shot-img.jpg" alt="Image" />
                       </div>
                      
                     </div>
@@ -102,19 +102,16 @@
                 <div class="service-it-con">
                   
                   <h4>
-Boost energy, enhance hormone production, and support your immune defenses with this powerful blend of B vitamins.
+The human body requires vitamin K for post-synthesis modification of certain proteins that are required for blood coagulation or for controlling binding of calcium in bones and other tissues.
  </h4>
                     
-                    <p>The mixed B Shot is specifically formulated for enhancing your cellular energy levels.</p>
                     
                     <h4>Highlights of Key Ingredients</h4>
                     
                     <ul>
-                    <li>Healthy brain functions</li>
-                    <li>Healthy cell growth and enhancement</li>
-                        <li>Improve mood and cognitive function</li>
-                        <li>Support nerve functions</li>
-                        <li>Enhance cardiovascular & immune health</li>
+                    <li>Prevention of osteoporosis and bone density improvement</li>
+                    <li>Reduce risk of cancer</li>
+                        <li>Cardiovascular health</li>
                     </ul>
                     
                   <a class="btn btn-schedule" href="javascript:;"

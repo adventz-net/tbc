@@ -91,7 +91,7 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/vitamin-shot.jpg" alt="Image" />
+                        <img src="images/shots-beauty.jpg" alt="Image" />
                       </div>
                      
                     </div>

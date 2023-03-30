@@ -149,7 +149,8 @@
           <div class="col-12">
             <div class="procedure-carousel">
               <div id="carousel-procedure" class="owl-carousel owl-theme">
-                <div class="item">
+               
+                  <a  href="wellness-programs.php#iv"><div class="item">
                   <div class="procedure-item">
                     <figure>
                       <img src="images/procedure-item-08.jpg" alt="Item" />
@@ -168,9 +169,9 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                </div></a>
                   
-                <div class="item">
+                 <a  href="holywood-hydrafacial.php"><div class="item">
                   <div class="procedure-item">
                     <figure>
                       <img src="images/procedure-item-09.jpg" alt="Item" />
@@ -190,9 +191,9 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                     </div></a>
                   
-                <div class="item">
+                <a  href="hair-PRP-rejuvenation.php"> <div class="item">
                   <div class="procedure-item">
                     <figure>
                       <img src="images/procedure-item-04.jpg" alt="Item" />
@@ -212,9 +213,9 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                    </div> </a>
                   
-                <div class="item">
+                <a  href="celebrity-laser.php"> <div class="item">
                   <div class="procedure-item">
                     <figure>
                       <img src="images/procedure-item-06.jpg" alt="Item" />
@@ -234,8 +235,9 @@
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="item">
+                    </div> </a>
+                    
+                 <a  href="dermal-fillers.php"><div class="item">
                   <div class="procedure-item">
                     <figure>
                       <img src="images/procedure-item-10.jpg" alt="Item" />
@@ -254,7 +256,8 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                     </div> </a>
+                  
               </div>
             </div>
           </div>

@@ -90,7 +90,7 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/iv-drips-img19.jpg" alt="Image" />
+                        <img src="images/vitamin-shot.jpg" alt="Image" />
                       </div>
                      
                     </div>

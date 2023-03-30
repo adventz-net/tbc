@@ -57,7 +57,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Beauty B Shot</h2>
+              <h2>Lean B Shot</h2>
               <div class="hd-line"></div>
             </div>
           </div>    
@@ -91,7 +91,7 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/vitamin-shot.jpg" alt="Image" />
+                        <img src="images/shots-lean.jpg" alt="Image" />
                       </div>
                      
                     </div>

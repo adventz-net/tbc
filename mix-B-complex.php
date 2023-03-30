@@ -57,7 +57,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Beauty B Shot</h2>
+              <h2>Mix B complex</h2>
               <div class="hd-line"></div>
             </div>
           </div>    
