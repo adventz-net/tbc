@@ -2660,7 +2660,7 @@ input[type=number]::-webkit-inner-spin-button {
   .dropdown-mega {
     left: 0;
     right: 0;
-    top: 84px !important;
+    top: 42px !important;
     max-width: unset;
   }
   .about-slider {
@@ -2694,7 +2694,7 @@ input[type=number]::-webkit-inner-spin-button {
     font-size: 3rem;
   }
   .dropdown-mega {
-    top: 78px !important;
+    top: 36px !important;
     max-width: 1246px;
   }
   .about-intro-cover {
