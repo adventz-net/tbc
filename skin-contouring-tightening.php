@@ -90,8 +90,7 @@
                     <div class="carousel-inner">
                       <div class="carousel-item active">
                         <img src="images/body-contouring-fillers-01.jpg" alt="Image" />
-                      </div>
-                        
+                      </div>    
                         
                     </div>
                   </div>
@@ -101,21 +100,15 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    Suffering from lax skin, wrinkles, double chin, scars
-                    undefined contours?
+                  If you're dealing with lax skin, wrinkles, a double chin, scars, or undefined contours, our Smart 3D RF Contouring treatment can help. This innovative technique refines your contours, enhancing dimension to your skin's appearance.
                   </h4>
                   <p>
-                    Our smart 3D RF contouring treatment can create more defined
-                    contours with enhanced dimension, combined with our
-                    well-known ultrasound technology, ulfit.
+                   In combination with our renowned Ulfit ultrasound technology, we can tighten and redefine the shape and texture of your skin. Whether it's your face or figure, our treatments aim to deliver the definition and firmness you desire.
                   </p>
                   <p>
-                    Consult our center to provide you with a specific treatment
-                    plan on your unique concerns
+                 We invite you to consult with our specialists at Beauty Code Clinic. We are committed to developing a unique treatment plan that addresses your specific concerns, helping you to achieve the confidence that comes with beautifully contoured and tightened skin.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

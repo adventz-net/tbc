@@ -102,21 +102,23 @@
                 <div class="service-it-con">
                
                   <h4>
-                      Throughout history gold has been revered for its luxurious and beautifying properties.</h4>
+                      Gold, an element esteemed as a symbol of luxury and beauty throughout the ages, holds a special place in the realm of aesthetics. </h4>
                       
-                      <p>Dating back to the time of Cleopatra, pure gold was used as a tool to maintain youthful skin, Cleopatra slept in a gold mask every night.</p>
+                      <p>Its rich history traces back to the era of Cleopatra, who famously used pure gold to preserve her youthful appearance, even going to the extent of sleeping in a gold mask every night.
+</p>
                     
-                    <h4>Benefits</h4>
+                    
+                    <h4>With Beauty Code's gold-infused treatments, you too can experience the allure of this precious metal and its remarkable benefits:</h4>
                     
                     <ul>
-                    <li>Lift and Firm</li>
-                    <li>Reduce the Appearance of Fine Lines and Wrinkles</li>
-                    <li>Eradicates Free Radicals</li>
+                    <li>Lift and Firm: Gold is known for its incredible firming properties that give the skin a more youthful and lifted appearance.</li>
+                    <li>Reduce the Appearance of Fine Lines and Wrinkles: Harness the power of gold to diminish the visibility of fine lines and wrinkles, revealing smoother, plump skin.</li>
+                    <li>Eradicate Free Radicals: Gold boasts potent antioxidant properties that help neutralize harmful free radicals, protecting your skin from premature aging.</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Embrace the ancient wisdom of beauty with our luxurious gold treatments, designed to bring you a royal wellness experience akin to that of Cleopatra herself.</p>
+                    
+                 
                 </div>
               </div>
             </div>

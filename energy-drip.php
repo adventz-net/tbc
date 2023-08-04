@@ -101,23 +101,25 @@
                 <div class="service-it-con">
                   
                   <h4>
-                   Feeling sluggish and need an instant pick me up? This drip is for you! This infusion fuel your body for energy production.</h4>
+                      Combat feelings of sluggishness and rejuvenate your vitality with our Energy Drip. This IV infusion fuels your body for energy production, revitalizing you from within.
+                    </h4>
                    
-                    <p>Chronic fatigue is a common issue that many suffer from and are unaware that it affects physical and mental health.</p>
+                    <p>Chronic fatigue is a common issue that affects both physical and mental health. With our Energy IV Drip, you can effectively reduce fatigue, malaise, and constant tiredness, giving your body the boost it needs.</p>
                     
-                    <p>This Energy IV drip replenishes your body and helps you reduce fatigue, malaise and tiredness. </p>
-                    
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the Energy Drip:</h4>
                     
                     <ul>
-                    <li>Improves energy & Vitality</li>
-                    <li>Increases mental focus</li>
-                        <li>Improves stamina</li>
+                    <li>Improves Energy & Vitality: This drip aids in revitalizing your body's energy levels, promoting an overall sense of vitality.
+</li>
+                    <li>Increases Mental Focus: By fueling your body with essential nutrients, this IV drip also enhances mental focus and cognitive function.
+</li>
+                        <li>Improves Stamina: With increased energy and vitality, you'll also experience improved stamina, keeping you active and productive throughout the day.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Experience the invigorating effects of our Energy Drip at Beauty Code Clinic and say goodbye to chronic fatigue. Ignite your energy levels and enhance your overall wellbeing with this power-packed IV infusion.</p>
+                    
+                 
                 </div>
               </div>
             </div>

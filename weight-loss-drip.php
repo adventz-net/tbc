@@ -100,22 +100,23 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                   
-                  <h4>
-Weight loss drip consists of both essential and non-essential amino acids that helps to supplement the amino acids necessary for muscle building.  </h4>
+                  <h4>Slim Down and Tone Up with Weight Loss Drip: Your Ally in Achieving Your Fitness Goals </h4>
                     
-                    <p>This also supplements a group of amino acids called branched chain amino acids. Branched chain amino acids had been reported and well known to induce lipolysis (fat breakdown) and muscle synthesis.</p>
+                    <p>Are you committed to creating a healthier, fitter version of yourself? Let the Weight Loss Drip be your secret weapon. Packed with essential and non-essential amino acids, this drip is designed to complement your fitness journey, aiding muscle building, recovery, and fat breakdown.</p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <p>Unlock the power of branched-chain amino acids (BCAAs) with the Weight Loss Drip. Widely recognized for their ability to stimulate lipolysis and muscle synthesis, BCAAs play a crucial role in your fitness regimen.</p>
+                    
+                    <h4>Here's what you can look forward to with the Weight Loss Drip:</h4>
                     
                     <ul>
-                    <li>Helps promote lean muscle building</li>
-                    <li>Aids with muscle recovery </li>
-                        <li>Fat breakdown </li>
+                    <li>Promote Lean Muscle Building: Feed your muscles with the vital nutrients they need to grow and strengthen. The Weight Loss Drip is loaded with essential amino acids, the building blocks that help promote lean muscle building.</li>
+                    <li>Enhance Muscle Recovery: You push your body hard in the pursuit of health. The Weight Loss Drip replenishes essential nutrients to aid with muscle recovery, helping you bounce back faster and stronger. </li>
+                        <li>Stimulate Fat Breakdown: Unleash the power of branched chain amino acids known to induce lipolysis–the breakdown of fat. The Weight Loss Drip aids in fat breakdown, helping you burn fat more effectively.</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>The Weight Loss Drip: Your partner in pursuing a leaner, fitter, healthier you. Ignite your transformation journey today.</p>
+                    
+                 
                 </div>
               </div>
             </div>

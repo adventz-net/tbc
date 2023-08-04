@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>FACE PROCEDURES</h5>
-              <h1> Enlightened Facial Features & Brighter Smiles</h1>
+              <h1>Enlightened Facial Features & Brighter Smiles</h1>
              
             </div>
           </div>
@@ -103,14 +103,23 @@
                 <div class="service-it-con">
                   
                   <h4>
-PRP is a treatment that  uses your own blood platelets to stimulate new healthy cells with potent growth factors,  to help improve complexions , skin texture and restore lost facial volume.
+Platelet-Rich Plasma (PRP) therapy is a breakthrough treatment that harnesses the healing power of your own blood platelets.
                     </h4>
                     <p>
-Depending on how many areas you want to get treated, a volume of blood will be taken. Your blood is then placed in a centrifuge for around 10 minutes.  Once your cells have separated, the rich platelets are extracted and injected into the skin where rejuvenation is requested.
+ Infused with potent growth factors, PRP stimulates the production of new, healthy cells, significantly enhancing your complexion, skin texture, and restoring lost facial volume.
                     </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>In this personalized procedure, a small sample of your blood is processed to extract the platelets, which are then injected back into desired areas of your face.
+</p>
+                  
+                    <p>The regenerative power of PRP therapy is truly transformative, potentially turning back the clock on skin aging and revealing a fresher, younger-looking you. Trust in the natural power of your body with PRP therapy at Beauty Code Clinic.</p>
+                    
+                    <p>Your PRP Rejuvenation journey begins with the extraction of a volume of blood, determined by the number of treatment areas. This sample is then placed in a centrifuge for approximately 10 minutes, a process that separates the blood components.</p>
+                    
+                    <p>Following this, the platelet-rich portion is carefully extracted. These concentrated platelets, housing a powerhouse of growth factors, are then meticulously injected into the requested areas of your skin.</p>
+                    
+                    <p>At Beauty Code Clinic, every step is taken with utmost precision and care. This meticulous approach ensures that you receive the most effective treatment, kick-starting your journey towards visibly rejuvenated skin.</p>
+                    
+                   
                 </div>
               </div>
             </div>

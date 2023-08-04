@@ -105,18 +105,20 @@
                 <div class="service-it-con">
                    
                   <h4>
-                      Loosens and removes stagnant skin cells. </h4>
-                      <h4>Benefits</h4>
+                     Experience the rebirth of your skin with our specialized treatments that gently dislodge and remove stagnant skin cells.</h4>
+                    
+                    
+                      <h4>Benefits you can look forward to include:</h4>
                     
                     <ul>
-                    <li> Gently cleanses and hydrates</li>
-                        <li>Enhances natural lip volume by lightly plumping </li>
-                        <li>Infuses the lips with antioxidants and nutrients</li>
+                    <li>Gentle Cleansing and Hydration: Enjoy a thorough yet gentle cleansing experience that not only purifies your skin but also endows it with optimal hydration for a supple, dewy finish.</li>
+                        <li>Natural Lip Volume Enhancement: Our treatments deliver a subtle plumping effect to your lips, boosting their natural volume for that perfect pout.</li>
+                        <li>Nutrient and Antioxidant Infusion: More than just a surface treatment, our procedures delve deeper, infusing your skin with a powerful cocktail of antioxidants and nutrients to keep it healthy and radiant.</li>
                     </ul>
+                    
+                    <p>At Beauty Code, we believe in the power of transformation, from the inside out. Experience skin rejuvenation like never before, with visible benefits that seamlessly blend science and aesthetics.</p>
                       
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

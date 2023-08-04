@@ -101,15 +101,20 @@
                 <div class="service-it-con">
                  
                   <h4>
-                   Offering a range of skin booster treatments to deliver long-lasting hydration at the cellular level, while nourishing the skin.</h4>
-                  <p>Injected into the deeper layers of the skin to enhance elasticity and hydration, without adding the volume that dermal fillers do.
+                   At Beauty Code, we offer an array of skin booster treatments, designed to provide enduring hydration at the cellular level while nourishing your skin. </h4>
+                    
+                  <p>These treatments go beyond surface-level care, penetrating into the deeper layers of your skin, enhancing its elasticity and hydration.
                   </p>
+                    
                   <p>
-                   At beauty code, we offer a wide range of treatment types among the best technologies in the world.
+Unlike dermal fillers, our skin boosters deliver their revitalizing benefits without adding volume, making them a superb choice for those seeking a more natural, subtle enhancement.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>
+                    In our quest to provide you with the best, we pride ourselves on offering a broad spectrum of treatment types, leveraging some of the world's most advanced technologies. As part of the Beauty Code family, you can expect cutting-edge treatments that blend science with aesthetics, for results that not only look good but feel amazing too.
+                    </p>
+                    
+                 
                 </div>
               </div>
             </div>

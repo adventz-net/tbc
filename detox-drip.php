@@ -101,21 +101,25 @@
                 <div class="service-it-con">
                   
                   <h4>
-                      Poor diet, low energy, exposure to environment hazards, this IV filled to support body’s ability to naturally detoxify and fight off disease.</h4>
-                    <p>The detox drip will help get rid of harmful toxins and free radicals using amazing detoxifying antioxidant, glutathione. Blast your cells and balance your liver with antioxidants, minerals and amino acids.
+                      Combat the effects of poor diet, low energy, and environmental hazards with our Detox Drip. This IV is specifically formulated to enhance your body's natural ability to detoxify and fend off diseases.
+</h4>
+                    <p>The Detox Drip delivers a powerful infusion of the detoxifying antioxidant, glutathione, helping to rid your body of harmful toxins and free radicals. This treatment not only revitalizes your cells but also balances your liver with a potent blend of antioxidants, minerals, and amino acids.
                   </p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the Detox Drip:</h4>
                     
                     <ul>
-                    <li>Replenishes electrolytes</li>
-                    <li>Promotes brain health</li>
-                     <li>Helps reduce oxidative stress</li>
+                    <li>Replenishes Electrolytes: Restores crucial electrolytes to maintain proper hydration and cellular function.
+</li>
+                    <li>Promotes Brain Health: Delivers essential nutrients that support cognitive function and overall brain health.
+</li>
+                     <li>Helps Reduce Oxidative Stress: Packed with antioxidants that combat oxidative stress—a key factor in aging and many chronic diseases.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>With our Detox Drip, experience a comprehensive cleanse on a cellular level and embrace a better, healthier you. Nurture your body's natural defenses and promote optimal wellness with Beauty Code Clinic.</p>
+                    
+                 
                 </div>
               </div>
             </div>

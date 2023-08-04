@@ -50,10 +50,15 @@
                 </li>
                 <li>
                   <span class="icon"><i class="bi bi-geo-alt-fill"></i></span>
-                  The Beauty code <br />
-                  P.O Box 1802, PC 111, <br />
-                  Airport Heights, <br />
-                  Sultanate of Oman
+                  The Beauty Code<br />
+                  WATER FRONT<br />
+                  No. 209, Second Floor<br />
+                  Building No.: 166A1,<br />
+                  Block No.: 230, Way No: 3017<br />
+                </li>
+                <li>
+                  Al Shatti Beach <br />
+                  Muscat, Sultanate Of Oman<br />
                 </li>
               </ul>
             </div>
@@ -259,6 +264,9 @@
     <script src="js/jquery.parallax.min.js"></script>
     <!-- Custom Scroll -->
     <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <!-- Smart Menu -->
+    <script src="js/jquery.smartmenus.js"></script>
+    <script src="js/jquery.smartmenus.bootstrap-4.js"></script>
     <!-- Calendar Ui -->
     <script src="js/jquery-ui.min.js"></script>
     <!-- Aos animation -->

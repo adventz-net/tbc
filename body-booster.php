@@ -92,6 +92,10 @@
                       <div class="carousel-item active">
                         <img src="images/iv-drips-img03.jpg" alt="Image" />
                       </div>
+                        
+                         <div class="carousel-item">
+                        <img src="images/iv-drips-img10.jpg" alt="Image" />
+                      </div>
                      
                     </div>
                   </div>
@@ -101,22 +105,26 @@
                 <div class="service-it-con">
                   
                   <h4>
-                      The body booster is a tailored multi mineral & vitamin necessary to make you always feel and look great.</h4>
-                    <p> With a mix of super-antioxidant, immunity booster and detox infusion, these are reported to give you a total wellness and prevention of any further disorder.
+                      Experience a total wellness transformation with our Body Booster drip. This tailor-made blend of multi-minerals and vitamins is carefully designed to ensure you always feel and look your best.
+</h4>
+                    <p> By combining super-antioxidants, immunity boosters, and a detox infusion, the Body Booster works comprehensively to promote total wellness and help prevent any potential disorders.
 
                   </p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the Body Booster:</h4>
                     
                     <ul>
-                    <li>Revitalize your body</li>
-                    <li>Improves immunity</li>
-                     <li>Antioxidant replenishment </li>
+                    <li>Revitalizes Your Body: By replenishing vital nutrients, this drip helps to enhance overall energy levels and wellness.
+</li>
+                    <li>Improves Immunity: Strengthens your body's natural defenses, helping to ward off illness and disease.
+</li>
+                     <li>Antioxidant Replenishment: Packed with powerful antioxidants that help to combat oxidative stress, aiding in the prevention of various health conditions.
+ </li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>With our Body Booster, you don't just feel the difference—you see it. Start your journey towards total wellness with this rejuvenating IV infusion at Beauty Code Clinic.</p>
+                    
+                 
                 </div>
               </div>
             </div>

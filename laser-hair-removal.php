@@ -121,26 +121,31 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    The premier Oman laser hair removal destination offering the
-                    gold standard suitable for all skin types Clarity II and
-                    Gentlepro.
+                   Experience the ultimate in laser hair removal at Beauty Code Clinic, Oman's premier destination for this service. We proudly present two industry-leading options – Clarity II and Gentlepro - both renowned as the gold standard in laser hair removal and suitable for all skin types.
                   </h4>
                   <h4>
-                    Laser hair removal at Beauty code offers many benefits,
-                    including the following:
+                   Choosing laser hair removal at Beauty Code Clinic guarantees you a host of benefits:
                   </h4>
                   <ul>
-                    <li>Fast, convenient and gentle treatments</li>
-                    <li>Suitable on all skin types</li>
-                    <li>No irritated, infected skin or ingrown hairs</li>
-                    <li>No downtime</li>
-                    <li>Long-lasting results</li>
-                    <li>Suitable for large and small treatment areas</li>
-                    <li>Can treat nearly any area on the face and body</li>
+                    <li>Fast, Convenient, and Gentle Treatments: Our procedures are designed to be swift and straightforward, with an emphasis on your comfort.
+</li>
+                    <li>Suitable for All Skin Types: Catering to the diverse needs of our clients, our treatments are suitable for all skin types.
+</li>
+                    <li>No More Irritated Skin or Ingrown Hairs: Say goodbye to the discomfort of irritated skin and the issue of ingrown hairs associated with traditional hair removal methods.
+</li>
+                    <li>No Downtime: Walk in for a session and walk out immediately after, ready to resume your day.
+</li>
+                    <li>Long-lasting Results: Our treatments offer lasting results, freeing you from the chore of constant hair removal.
+</li>
+                    <li>Suitable for Both Large and Small Treatment Areas: From extensive areas like the legs and back to smaller zones like the upper lip and underarms, our solutions cater to all.
+</li>
+                    <li>Versatility to Treat Nearly Any Area on the Face and Body: Our laser hair removal procedures can be applied to virtually any part of your body where unwanted hair is an issue.
+</li>
                   </ul>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>Step into the world of smooth, hair-free skin with Beauty Code Clinic's laser hair removal solutions – where efficiency meets effectiveness.</p>
+                    
+                 
                 </div>
               </div>
             </div>

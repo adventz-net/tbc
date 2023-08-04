@@ -103,16 +103,14 @@
               </figure>
               <div class="service-it-body">
                 <div class="service-it-con">
-                    <h4>Aquagold Fine Touch is a step up from traditional microneedling procedures,</h4>
+                    <h4>Elevate your skincare regimen with our Fine Touch treatment, an advanced evolution of traditional microneedling procedures. </h4>
                   <p>
- It covers a larger treatment area and delivers healing solutions, allowing them to be absorbed more effectively than with a single syringe. 
+ Offering a broader treatment coverage, Fine Touch is designed to deliver healing solutions directly into the skin, ensuring their optimal absorption - a feat beyond the capability of a single syringe.
                     </p>
                     <p>
-Many patients choose to use the AquaGold Fine Touch microneedling system on their face, neck, or chest.
+The AquaGold Fine Touch microneedling system is a popular choice among our clients, who frequently opt for this treatment for areas such as the face, neck, or chest. With Fine Touch, expect a micron-level precision that delivers visible, transformative results, setting a new standard for aesthetic improvement.
                     </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

@@ -99,25 +99,28 @@
                 <div class="service-it-con">
                   
                   <h4>
-The Skin rejuvenation treatment from Nordlys known as a Photo Facial helps maintain a younger and youthful look.  
+Experience the illuminating power of our IPL (Intense Pulsed Light) Photofacial treatment. This advanced skin rejuvenation technique, popularly known as a Photo Facial, helps maintain a youthful appearance and promotes a radiant complexion.
                   </h4>
                     
-                    <h4>The safe and visible multiple bands of light emitted from the Nordlys applicator ensures :</h4>
+                    <h4>The Photofacial procedure utilizes safe, visible multiple bands of light emitted from the applicator, offering numerous benefits:</h4>
                     
                     <ul>
-                        <li>Smoother skin</li>
-                    <li>Removal of dark spots</li>
-                        <li>Open pores tightening</li>
-                        <li>Even skin tone</li>
-                        <li>Improves general texture of the skin </li>
+                        <li>Smoother Skin: Experience a remarkable improvement in skin texture, revealing a complexion that is smooth to the touch.</li>
+                    <li>Dark Spot Removal: Say goodbye to dark spots and welcome a uniformly bright complexion.
+</li>
+                        <li>Open Pore Tightening: Witness a significant reduction in open pores, contributing to a smoother, more refined skin texture.
+</li>
+                        <li>Even Skin Tone: Attain a balanced and harmonious complexion, free from discoloration and patchiness.
+</li>
+                        <li>Improved Skin Texture: Revel in the overall improvement of your skin's texture, making it feel as good as it looks.
+ </li>
                     </ul>
                     
                   <p>
- Many women report they no longer require make up to cover up their fresh flawless skin.
+Many clients have reported that after undergoing our IPL Photofacial treatment, their skin becomes so fresh and flawless that they no longer feel the need to use makeup as a cover-up. Discover the charm of naturally radiant, makeup-free skin with our IPL Photofacial treatment at Beauty Code Clinic.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                 
                 </div>
               </div>
             </div>

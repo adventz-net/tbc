@@ -57,7 +57,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Hair Regenerate drip</h2>
+              <h2>Hair Revitalize drip</h2>
               <div class="hd-line"></div>
             </div>
           </div>    
@@ -104,26 +104,30 @@
                 <div class="service-it-con">
                   
                   <h4>
-This Drip is tailored to help the hair look glossy, healthy, and full. 
-</h4>
-                    <p>Recommended for clients suffering from hair loss and thinning hair, due to environmental factors and nutrient deficiencies. 
+Give your hair the boost it needs with our Hair Regenerate Drip. </h4>
+                    <p>Specifically formulated to promote glossy, healthy, and full hair, this IV infusion is ideal for clients suffering from hair loss and thinning due to environmental factors and nutrient deficiencies.
                   </p>
                     
-                    <p>Supplementing these deficient micronutrients can possibly improve premature graying.</p>
+                    <p>Supplementing these micronutrients has the potential to improve premature graying, providing a comprehensive solution to a variety of hair health concerns.
+</p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the Hair Regenerate Drip:
+</h4>
                     
                     <ul>
-                    <li>Boosts hair health on a cellular level
+                    <li>Boosts Hair Health: This drip works on a cellular level to promote healthier, stronger hair.
 </li>
-                    <li>Targets vitamins and minerals deficiencies</li>
-                        <li>Reduce hair dryness and improve collagen formation
+                    <li>Targets Vitamin and Mineral Deficiencies: By delivering the necessary nutrients directly to the hair follicles, this drip combats deficiencies that could be causing hair loss or thinning.
+</li>
+                        <li>Reduces Hair Dryness and Improves Collagen Formation: With improved hydration and collagen formation, this drip helps enhance the texture and strength of hair.
+
 </li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Embrace the transformative effects of our Hair Regenerate Drip at Beauty Code Clinic. Journey towards luscious, healthy hair and enjoy the confidence that comes with it.
+</p>
+                    
+                 
                 </div>
               </div>
             </div>

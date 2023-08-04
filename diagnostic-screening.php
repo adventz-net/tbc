@@ -84,13 +84,10 @@
                   <div class="mission-item">
                     
                     <p>
-                      Immediate and non-invasive nutritional assessments,
-                      without drawing a blood sample.
+                      Immediate and non-invasive nutritional assessments, without drawing a blood sample.
                     </p>
                     <p>
-                      Regular screening can help determine any physiological
-                      imbalance in the body to support prevention and overall
-                      wellbeing.
+                    Regular screening can help determine any physiological imbalances in the body to support prevention and overall wellbeing.
                     </p>
                   </div>
                 </div>
@@ -163,10 +160,7 @@
                 </figure>
                 <div class="evaluate-body">
                   <h3>
-                    SO Check evaluates minerals, vitamins, trace-elements,
-                    oxidative stress and heavy metals by means of
-                    spectrophotometry directly in your office. It allows you to
-                    benefit from a quick and painless assessment.
+                  Explore the all-encompassing health assessment capabilities <br> of SO Check at Beauty Code Clinic:
                   </h3>
                 </div>
               </div>
@@ -188,25 +182,32 @@
                 <li class="test-repo-item">
                   <h4>Minerals</h4>
                   <h5>
-                    Deficiencies and excesses of minerals and trace elements
+With SO Check, we can assess any deficiencies or excesses of minerals and trace elements in your body. This key information helps us tailor a plan to restore balance.
                   </h5>
                 </li>
                 <li class="test-repo-item">
                   <h4>Heavy metals</h4>
-                  <h5>Evaluation of a heavy metal excess</h5>
+                  <h5>The device provides an evaluation of any excesses of heavy metals in your body, which can be harmful if left unchecked.
+</h5>
                 </li>
                 <li class="test-repo-item">
                   <h4>Vitamins</h4>
                   <h5>
-                    Assessment of the bioavailabitly of vitamins in tissues
+The SO Check tool assesses the bioavailability of vitamins in tissues, providing insights into your nutritional status and any potential deficiencies.
                   </h5>
                 </li>
                 <li class="test-repo-item">
                   <h4>Oxidative Stress</h4>
-                  <h5>Responsable for ageing and numerous diseases</h5>
+                  <h5>This process, responsible for aging and numerous diseases, can be assessed using SO Check, allowing us to devise preventive measures and treatments.
+</h5>
                 </li>
               </ul>
+                
+               
             </div>
+              
+               <p>SO Check enables us to evaluate these critical health factors using spectrophotometry directly in our office. This provides a quick and painless assessment, letting you understand and take control of your health more effectively. Enjoy the relief that thorough health knowledge can bring, and set out on your wellness journey with Beauty Code Clinic today.
+</p>
           </div>
         </div>
       </section>

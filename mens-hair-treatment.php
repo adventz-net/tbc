@@ -55,7 +55,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Men's hair treatment & laser hair removal </h2>
+              <h2>Men's Hair Treatment & Laser Hair Removal </h2>
               <div class="hd-line"></div>
             </div>
           </div>
@@ -97,21 +97,22 @@
               </figure>
               <div class="service-it-body">
                 <div class="service-it-con">
+                 <h4>At Beauty Code Clinic, we understand that hair concerns extend beyond women. That's why we offer specialized hair treatments and laser hair removal services specifically designed for men.
+</h4>
+                  <p>
+                  A primary concern for many men is hair loss, particularly male-pattern baldness (also known as androgenic alopecia), which is primarily genetic. That's where our expertise comes in.
+
+               </p>
+                  <p>
+                   At our aesthetic clinic in Waterfront, we offer a unique blend of topical and technology-based treatments intended to slow down and manage hair loss. Each treatment plan is customized to the individual, ensuring the most effective approach for every client.
+                  </p>
+                    
+                    <p>
+                    In addition to addressing hair loss, we also provide laser hair removal services for men. Whether it's eliminating unwanted hair or treating hair loss, trust Beauty Code Clinic to deliver results that will boost your confidence and enhance your appearance.
+                    </p>
+                    
+                    
                  
-                  <p>
-                    When it comes to hair, the main concern for most men is hair
-                    loss. Hair loss from male-pattern baldness (also known as
-                    androgenic alopecia) is primarily due to genetics.
-                  </p>
-                  <p>
-                    At our aesthetic clinic in Waterfront, we offer hair removal
-                    and hair loss treatments specifically designed for men. For
-                    hair loss, we offer a unique combination of topical and
-                    technology-based options to slow down hair loss.
-                  </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
                 </div>
               </div>
             </div>

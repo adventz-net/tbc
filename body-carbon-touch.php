@@ -98,14 +98,13 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                  
-                  <h4>
-Are you suffering from dull skin, blemished, pigmented and uneven skin tone?! </h4>
+                  <h4>If you're dealing with dull, blemished, pigmented or uneven skin tone, our Carbon Touch Body Treatments could be the solution you've been seeking.</h4>
                     
-                   <p>The carbon laser peel can rejuvenate the skin on your body for more radiant, clear skin with an even complexion. We offer non-invasive carbon laser body treatment using the Qswitch laser system by Spectra.</p>
+                   <p>The Carbon Laser Peel works to rejuvenate the skin on your body, revealing more radiant, clear skin with an even complexion. This non-invasive procedure utilizes the advanced Q-Switch laser system by Spectra, ensuring top-notch results with minimal discomfort.</p>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>At Beauty Code Clinic, we aim to help you put forward your best self, and that includes having skin that you're truly confident in. With our Carbon Touch Body Treatments, discover a refreshed, revitalized you, from head to toe.</p>
+                    
+                 
                 </div>
               </div>
             </div>

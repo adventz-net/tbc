@@ -1,14 +1,49 @@
 // max -----------------
 @media (min-width: 768px) {
-  .main-nav .nav-item:hover .dropdown-menu {
-    display: block;
-  }
-  .dropdown-menu {
-    animation: drop-anim 0.3s ease-out;
-  }
+  // .main-nav .nav-item:hover .dropdown-menu {
+  //   display: block;
+  // }
+  // .dropdown-menu {
+  //   animation: drop-anim 0.3s ease-out;
+  // }
 }
 
 @media (min-width: 992px) {
+  .drop-mega-menu {
+    min-height: 325px;
+    min-width: 250px !important;
+    .drop-link-first {
+      font-size: 1.25rem !important;
+    }
+    .drop-link-second {
+      font-size: 1.125rem !important;
+    }
+    .dropdown {
+      position: static !important;
+    }
+    .drop-mega-child {
+      left: 100% !important;
+      top: 0 !important;
+      margin: 0 !important;
+      min-width: 250px !important;
+      min-height: 325px;
+    }
+    .drop-mg-list {
+      display: flex;
+      flex-wrap: wrap;
+      .drop-mg-cell {
+        flex: 1 1 0;
+      }
+    }
+    .drop-mega-third {
+      width: 700px !important;
+      max-width: 700px !important;
+      padding: 1rem;
+      .sub-arrow {
+        display: none;
+      }
+    }
+  }
 }
 
 @media (min-width: 1200px) {
@@ -60,6 +95,9 @@
   .main-nav {
     flex: 0 0 50%;
     max-width: 50%;
+  }
+  .main-nav .nav-item .nav-link {
+    font-size: 0.875rem;
   }
   .info-nav-right {
     justify-content: flex-end;
@@ -152,6 +190,9 @@
 }
 
 @media (max-width: 991px) {
+  .navbar .dropdown-menu {
+    position: static !important;
+  }
   .content-sec {
     padding: 4rem 0 4rem;
   }
@@ -453,6 +494,15 @@
   .about-site .about-site-con .btn-explore {
     margin: 1rem 0 0 0;
   }
+  .discover-iv-cover figure {
+    order: unset;
+  }
+  .discover-iv-cover .dis-iv-body {
+    padding: 2rem 2rem;
+  }
+  .choose-iv-cover {
+    flex-direction: column;
+  }
 }
 
 @media (max-width: 650px) {
@@ -666,6 +716,38 @@
   .discover-sec .col-dis-item {
     flex: 0 0 50%;
     max-width: 50%;
+  }
+  .iv-highlight h4 {
+    font-size: 1.5rem;
+  }
+  .in-infs-item {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+  .in-infs-item figure {
+    flex: unset;
+    max-width: unset;
+  }
+  .in-infs-item .in-infs-body {
+    flex: unset;
+    padding: 1.5rem 1.5rem;
+  }
+  .con-address-cover {
+    align-items: stretch;
+    flex-direction: column;
+    margin-bottom: 2rem;
+  }
+  .con-address-cover .address-item {
+    padding: 1rem;
+    border-right: 0 solid var(--color-100);
+    border-bottom: 1px solid var(--color-100);
+    text-align: left;
+  }
+  .con-address-cover .contact-item {
+    padding: 1rem;
+  }
+  .con-map-cover iframe {
+    height: 250px;
   }
 }
 

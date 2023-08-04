@@ -101,23 +101,24 @@
                 <div class="service-it-con">
                   
                   <h4>
-Cleanse and support your liver against oxidative stress. 
+Purify and bolster your liver against oxidative stress with our Liver Detox Drip.
 </h4>
-                    <p>Treatment with our formula significantly improved ALT levels. Depending on the extent of mitochondrial damage, NF-κB inhibition and JNK activation, hepatocytes may either undergo different modes of cell death (apoptosis or necrosis) or be sensitized to cell-death stimuli (i.e. TNF-α). These processes have been implicated in the pathogenesis of many liver diseases. </p>
+                    <p>Our specially formulated treatment has shown to improve ALT levels, a key indicator of liver health. Depending on the degree of mitochondrial damage, hepatocyte cells can either undergo different forms of cell death or become more sensitive to cell-death stimuli. These processes are associated with many liver diseases. A variety of antioxidants are said to be beneficial in mitigating this mitochondrial damage.</p>
                     
-                    <p>Several anti-oxidants are said to be beneficial for lessening mitochondrial damage.</p>
-                    
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the Liver Detox Drip:</h4>
                     
                     <ul>
-                    <li>Cleanses vital organs</li>
-                    <li>Detoxifies the body</li>
-                        <li>Improvement of all body functions</li>
+                    <li>Cleanses Vital Organs: This IV drip aids in the detoxification of vital organs, promoting their optimum function.
+</li>
+                    <li>Detoxifies the Body: Our Liver Detox Drip helps cleanse your system, removing harmful toxins that can impede bodily functions.
+</li>
+                        <li>Improves Overall Body Functions: By cleansing the liver, an organ integral to numerous bodily functions, this drip supports the improvement of body functions.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Embark on the journey to improved liver health with our Liver Detox Drip at Beauty Code Clinic. With this targeted IV infusion, you can help your body perform at its best, supporting your overall well-being.</p>
+                    
+                 
                 </div>
               </div>
             </div>

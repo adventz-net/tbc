@@ -112,14 +112,16 @@
                 <div class="service-it-con">
                 
                   <h4>
-                  Reduce fine lines, wrinkles, and remove visible signs of aging.
-                  </h4>
+Defy the signs of time with our Botox/anti-wrinkle treatments. </h4>
                   <p>
-                  Consult our specialist dermatologist today and look younger.
+Specifically designed to reduce fine lines and wrinkles, this treatment brings back your skin's youthful firmness and elasticity, erasing visible signs of aging.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>
+                    We invite you to consult with our specialist dermatologists today and embark on your journey towards a fresher, younger-looking you. At Beauty Code, we believe in celebrating beauty at every age, and with our expertly administered Botox treatments, we make that celebration an effortlessly radiant one.
+                    </p>
+                    
+                 
                 </div>
               </div>
             </div>

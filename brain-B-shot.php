@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Healthness</h5>
-              <h1>Booster Shots</h1>
+              <h1>Intra-muscular Booster Shots</h1>
               
             </div>
           </div>
@@ -102,23 +102,29 @@
                 <div class="service-it-con">
                   
                   <h4>
-Boost your brainpower with this blend that is formulated to support cognitive function, memory, focus, and more. 
+Ignite Your Mind with Brain B Shot: Your Secret to Enhanced Cognitive Function
 </h4>
                     
-                   <p>Beauty Code Vitamin Shots are advanced formulations of essential B vitamins, amino acids, and enzymes designed to enhance and optimize your health.</p>
+                   <p>Looking for that mental edge? Reach for the Brain B Shot. This powerhouse blend is meticulously formulated to boost your cognitive function, memory, focus, and much more, placing a world of mental prowess at your fingertips.</p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <p>Our Vitamin Shots are not your average health supplements. These are advanced formulations of essential B vitamins, amino acids, and enzymes, purposefully designed to supercharge your health and bring out the best in you.</p>
+                    
+                    <h4>Here are a few ways the Brain B Shot works to optimize your wellness:</h4>
                     
                     <ul>
-                    <li>Memory & Concentration power</li>
-                    <li>Cardiovascular Health</li>
-                        <li>Metabolism & energy production</li>
-                        <li>Healthy immune system</li>
+                    <li>Boost Memory & Concentration Power: Unleash your full cognitive potential. The Brain B Shot supports memory and concentration, letting you perform at your best, whether at work, studies, or everyday life.
+</li>
+                    <li>Enhance Cardiovascular Health: Your heart powers your life – it deserves the best care. The Brain B Shot aids in maintaining cardiovascular health, fortifying your heart for years to come.
+</li>
+                        <li>Supercharge Energy & Metabolism: Get the energy you need, when you need it. This shot supports efficient energy production and enhances metabolism, fueling your day with a steady, invigorating energy boost.
+</li>
+                        <li>Fortify Your Immune System: Arm your body's defense system with the Brain B Shot. Loaded with essential nutrients, it supports a healthy immune system, helping you stay resilient and proactive against health challenges.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Brain B Shot: Your ally in cultivating an active mind and a vibrant body. Elevate your cognitive function and live a powerful, healthy life.</p>
+                    
+                 
                 </div>
               </div>
             </div>

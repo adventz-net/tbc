@@ -121,16 +121,14 @@
                 <div class="service-it-con">
                   
                   <h4>
-Time and gravity have adverse effects on our skin, leaving wrinkles and sagging that make us look older than we might feel or want to appear. 
+Experience the rejuvenating power of Ulfit, a treatment specifically designed to combat the effects of time, gravity and aging on your skin. This non-surgical procedure employs ultrasound energy to reverse unwanted signs of aging, restoring your skin to its youthful, vibrant state.
                   </h4>
                     
-                    <p>With Ulfit, customers can bring back their youthful, vibrant skin by removing many unwanted signs of ageing.</p>
+                    <p>Ulfit works by triggering the body's natural healing responses, which in turn lift the skin and smooth out lines and wrinkles. The result is a younger-looking complexion that aligns with how vibrant and youthful you feel on the inside.</p>
                     
-                    <p>A non-surgical treatment that uses ultrasound energy to combat the effects of ageing and gravity on your skin. It uses the body’s natural healing response to lift the skin and smooth lines and wrinkles.</p>
+                    <p>At Beauty Code Clinic, we believe that age is merely a number. With advanced treatments like Ulfit, we help you not only look your best, but feel your best at any age. Step into the world of Ulfit and embrace the youthful, radiant skin you always desired.</p>
                   
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

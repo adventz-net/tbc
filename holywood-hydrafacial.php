@@ -107,13 +107,17 @@
                 <div class="service-it-con">
                   
                   <h4>
-                  The Hollywood Hydrafacial is recommended for those who are in of a little extra pampering and looking for a rejuvenated complexion.   </h4>
+                 Indulge in the star-studded experience of our Hollywood Hydrafacial, the ultimate in facial pampering and rejuvenation.  </h4>
                     <p>
-                    This treatment includes a personalized deep cleanse along with top-of-the-line products to ensure a beautiful glow.
+This treatment is perfect for those in search of an extra touch of luxury and a noticeably revitalized complexion.
                     </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>
+                    Our Hollywood Hydrafacial commences with a bespoke deep cleanse, tailored to your specific skin needs. We then move on to utilize top-tier products, each one selected to nourish your skin and augment its natural radiance.
+                    </p>
+                    <p>
+                    Experience the Hollywood Hydrafacial difference - because every client deserves a taste of celebrity-grade pampering and the allure of a glowing complexion.
+                    </p>
+                 
                 </div>
               </div>
             </div>

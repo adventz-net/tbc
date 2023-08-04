@@ -100,23 +100,20 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    The face is often where people notice their first signs of
-                      aging. </h4>
-                    <p>However, hands and necks with aging signs like thin,
-                    loose, wrinkled or spotted skin can easily give away your
-                    age.
+                   While the face is often the first to show signs of aging, the hands and neck can be equally revealing. </h4>
+                    
+                    <p>Aging signs like thin, loose, wrinkled, or spotted skin on the hands and neck can often betray your age.
+                  </p>
+                    
+                  <p>
+                   At Beauty Code Clinic, we offer an array of non-surgical treatments specifically designed to rejuvenate the skin on your hands and neck. Our treatments facilitate the restoration of a youthful appearance, significantly reducing signs of aging.
+
                   </p>
                   <p>
-                    At Beauty code clinic, we offer many non-surgical treatments
-                    to rejuvenate the skin on your hands and neck.
+                   Don't let your hands and neck give away your age. Let them reveal the inner youth you feel and long for. Book your consultation today at Beauty Code Clinic and take the first steps towards a more youthful you.
+
                   </p>
-                  <p>
-                    Let your hands and neck reveal the inner youth you feel or
-                    long for, book your consultation today.
-                  </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

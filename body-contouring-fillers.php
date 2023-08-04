@@ -99,21 +99,20 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    Remove your insecurities and achieve your body contour goals
-                    with body fillers.
+                   Transform your body silhouette and embrace positivity with our Body Contouring Fillers.
                   </h4>
                   <p>
-                    Made of hyaluronic acid (HA), a natural molecule found in
-                    the body that helps the skin and tissues retain moisture and
-                    plumpness.
+                  These innovative fillers use Hyaluronic Acid (HA), a naturally occurring molecule that helps your skin retain its natural moisture and plumpness.
                   </p>
                   <p>
-                    Body fillers add volume to enhance the shape and definition
-                    of the treatment area.
+                 Our Body Contouring Fillers don't just add volume and shape to the treated area, they also help to dissolve any insecurities you might have about your body. As your figure becomes more defined and contoured, you'll find the confidence to celebrate your body just as it is.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>
+                    At Beauty Code Clinic, we're not just enhancing your body, we're boosting your self-esteem. Say goodbye to insecurities and hello to a brand new, more confident you.
+                    </p>
+                    
+                 
                 </div>
               </div>
             </div>

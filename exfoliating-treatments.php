@@ -105,14 +105,17 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                   
-                  <h4>
-You are one treatment away from beautifully bright, radiant and soft skin with our peels treatments. </h4>
+                  <h4>Unlock the door to beautifully bright, radiant, and soft skin with our transformative peel treatments. Just one session can make a world of difference. </h4>
+                    
                     <p>
-It works by removing the accumulated top layers of the epidermis that contain old skin cells and dead skin cells, thus revealing healthier, younger looking skin underneath. 
+Our peel treatments work by meticulously removing the accumulated top layers of the epidermis, which often house old and dead skin cells. By doing so, we reveal the healthier, younger-looking skin underneath, providing you with a complexion that is not just noticeably improved, but also feels fresher and more rejuvenated.
                     </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>
+                    At Beauty Code Clinic, we're all about unveiling the best you. Start your journey to a brighter, more radiant you with our expertly-curated peel treatments.
+                    </p>
+                    
+                 
                 </div>
               </div>
             </div>

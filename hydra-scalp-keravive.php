@@ -107,21 +107,23 @@
                 <div class="service-it-con">
                 
                   <h4>
-                    Check our exclusive hydrafacial scalp keravive: your scalp
-                    is skin too.
+                   Just as your face needs care and attention, so too does your scalp. Enter HydraFacial Scalp Keravive – a unique treatment focused on scalp health. Being an integral part of your skin, your scalp deserves the same level of care and pampering.
                   </h4>
                   <h4>
-                    A simple scalp healthy protocol with few steps ensuring:
+Our exclusive HydraFacial Scalp Keravive treatment follows a simple yet efficient protocol with a few fundamental steps:
                   </h4>
                   <ul>
-                    <li>Cleansing & exfoliation</li>
-                    <li>Stimulating & nourishing</li>
-                    <li>Enhancement</li>
+                    <li>Cleansing & Exfoliation: We start by deeply cleansing and exfoliating your scalp, removing any buildup of oils, dead skin cells and impurities.
+</li>
+                    <li>Stimulating & Nourishing: Next, we nourish and stimulate your scalp with nutrient-rich solutions that invigorate and rejuvenate.
+</li>
+                    <li>Enhancement: Finally, we enhance your scalp health with targeted treatments tailored to your individual needs.
+</li>
                   </ul>
-                  <p>Show your scalp some love</p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                  <p>At Beauty Code Clinic, we believe scalp care is essential to maintaining healthy and lustrous hair. With our HydraFacial Scalp Keravive treatment, we invite you to show your scalp some love and embrace the natural beauty of your hair.</p>
+                    
+                 
                 </div>
               </div>
             </div>

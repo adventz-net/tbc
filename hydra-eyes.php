@@ -104,23 +104,28 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                     
-                  <h4>
-HydraFacial Perk uses patented roller-flex technology to: </h4>
-                       <ul>
-                           <li>Loosen dirt, oil and dead skin cell</li>
-                           <li>Gently cleanse and hydrate the delicate eye areas</li>
-                           <li>Deliver antioxidants and nutrients</li>
-                    </ul>
+                    <h4>Experience the power of precision skincare with our Hydra Facial Perk treatment. </h4>
                     
-                    <p>
-                        It also firms, tones, and brightens around your eyes.</p>
-                    <p>Hydra Facial Perk Eye reduces puffiness, dark circles, fine lines, and wrinkles brightening the appearance of your eyes.
-                    </p>
+                  <h4>
+Utilizing patented roller-flex technology, this innovative procedure:
+ </h4>
+                       <ul>
+                           <li>Loosens Dirt, Oil, and Dead Skin Cells: Engaging roller-flex technology to delve deep into your skin, this treatment effectively loosens and removes impurities and dead skin cells.
+</li>
+                           <li>Gently Cleanses and Hydrates Delicate Eye Areas: The Hydra Facial Perk is exceptionally gentle, making it suitable for the delicate areas around the eyes. While it cleanses, it simultaneously infuses the skin with hydration, ensuring a supple, refreshed look.</li>
+                           
+                           <li>Delivers Antioxidants and Nutrients: Our treatment goes beyond surface-level care by infusing your skin with essential antioxidants and nutrients to promote overall skin health.
+</li>
+                   
+                    <li>Firms, Tones, and Brightens: Experience a noticeable firming and toning effect around your eyes, complemented by a brighter complexion.</li>
+                           
+                    </ul>
+                     
+                    
+                    <p>The Hydra Facial Perk Eye is specially designed to combat common eye-area concerns. It proficiently reduces puffiness, dark circles, and fine lines, while also diminishing wrinkles and illuminating the appearance of your eyes. Invest in a treatment that addresses every facet of eye care, delivering results that truly make your eyes the windows to your soul. </p>
                     
                    
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

@@ -100,24 +100,27 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                   
-                  <h4>
-NAD+, or nicotinamide adenine dinucleotide, is a coenzyme that reacts with oxygen in every cell of the body, specifically in the mitochondria. </h4>
-                    <p>When NAD+ levels are low, our cells won’t function at their best, and therefore neither will we. </p>
+                  <h4>Experience rejuvenation at a cellular level with our NAD Drip. NAD+, or Nicotinamide Adenine Dinucleotide, is a crucial coenzyme that interacts with oxygen in every cell of your body, specifically in the mitochondria.</h4>
                     
-                    <p>Our NAD+ IV brings your cells back to life, empowering you to feel younger for longer.</p>
+                    <p>When NAD+ levels are low, our cells can't function at their best and, as a result, neither can we. Our NAD+ IV therapy aims to restore these vital levels, breathing new life into your cells and empowering you to feel younger for longer.</p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the NAD Drip:</h4>
                     
                     <ul>
-                    <li>Increases vitality and energy</li>
-                    <li>Decreases inflammation</li>
-                        <li>Overall wellbeing booster </li>
-                        <li>Healing at cellular level</li>
+                    <li>Increases Vitality and Energy: By revitalizing your cells, our NAD Drip promotes increased vitality and energy levels.
+</li>
+                    <li>Decreases Inflammation: This powerful IV infusion helps in reducing inflammation within the body, promoting overall wellbeing.
+</li>
+                        <li>Overall Wellbeing Booster: More than just a vitality boost, this drip helps improve your overall wellbeing by enhancing cellular health.
+</li>
+                        <li>Healing at a Cellular Level: By replenishing NAD+ levels, this drip supports healing at a cellular level, enabling your cells—and you—to function at their best.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Embrace the revitalizing power of NAD+ with our specialized IV drip at Beauty Code Clinic. Take a step towards feeling youthful and energetic, and let the healing begin from within.
+</p>
+                    
+                 
                 </div>
               </div>
             </div>

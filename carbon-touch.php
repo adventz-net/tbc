@@ -121,24 +121,23 @@
                 <div class="service-it-con">
                     
                   <h4>
-                      A carbon laser peel can rejuvenate the skin on your face for more radiant, clear skin with an even complexion.</h4>
+                    Light up your radiance with our Carbon Laser Peel treatment, designed to rejuvenate your skin for a clearer, more glowing visage. This procedure promises an even complexion, breathing life back into dull or uneven skin.</h4>
                       
-                      <p>We offer non-invasive carbon laser treatment using our Spectra machine
-                  </p>
+                      <p>At Beauty Code, we utilize the state-of-the-art Spectra machine for our Carbon Laser treatments. As a non-invasive procedure, it provides the benefits of a comprehensive skin refresh without the complications of traditional surgical methods. Embrace the promise of brighter, more vibrant skin with our expertly administered Carbon Laser Peel treatment.</p>
                     
-                    <h4>The carbon laser procedure can treat the following signs of aging and sun damage:
-</h4>
+                    <h4>Unleash your skin's true potential with our Carbon Laser Peel procedure. This transformative treatment is designed to combat a range of skin concerns, including:</h4>
                     
                     <ul>
-                    <li>Dull skin</li>
-                        <li>Blemished skin</li>
-                        <li>Uneven skin tone</li>
-                        <li>Pigmentation problems, including freckles, age spots</li>
+                    <li>Dull Skin: Breathe life back into lackluster skin, and reveal a complexion that's radiant and full of vitality.</li>
+                        <li>Blemished Skin: Combat skin imperfections such as acne scars, texture irregularities, and blemishes for a clearer, smoother complexion.</li>
+                        <li>Uneven Skin Tone: Achieve a balanced and harmonious skin tone, as the Carbon Laser Peel works to even out areas of discoloration and patchiness.</li>
+                        <li>Pigmentation Problems: Effectively address pigmentation issues including freckles, age spots, and sun spots.</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>With our Carbon Laser Peel treatment, it's never been easier to rewind the effects of aging and sun damage. Rediscover the joy of skin that's radiant, even-toned, and beautifully clear with Beauty Code Clinic.</p>
+                    
+                 
                 </div>
               </div>
             </div>

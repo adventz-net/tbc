@@ -102,23 +102,27 @@
                 <div class="service-it-con">
                   
                   <h4>
-This drip is essential for healing the digestion and leaky gut. </h4>
-                    <p>Dysfunction of the mucosal barrier is associated with increased gut permeability and development of multiple gastrointestinal diseases.
-                  </p>
+Discover the key to optimal digestive health with our Gut Support Drip. </h4>
                     
-                    <p>The drip is designed for people experiencing disturbance in bowel movements, flatulence, bloating and maldigestion, irritability and abdominal spasms.</p>
+                    <p>This IV infusion is particularly beneficial for healing digestive issues and leaky gut syndrome a condition associated with increased gut permeability and the development of multiple gastrointestinal diseases. </p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <p>This drip is designed for individuals experiencing disturbances in bowel movements, flatulence, bloating, maldigestion, irritability, and abdominal spasms.</p>
+                    
+                    <h4>Key Features of the Gut Support Drip:</h4>
                     
                     <ul>
-                    <li>Improves immunity</li>
-                    <li>Reduces digestive issues</li>
-                        <li>Boost detoxification</li>
+                    <li>Improves Immunity: By supporting gut health, one of the primary centres of the immune system, this drip plays a crucial role in enhancing your body's overall immunity.
+</li>
+                    <li>Reduces Digestive Issues: This treatment helps alleviate various digestive issues, from bloating to irregular bowel movements, providing significant relief and improving your digestive health.
+</li>
+                        <li>Boosts Detoxification: The Gut Support Drip promotes detoxification, assisting your body in flushing out toxins and restoring optimal gut health.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Experience improved digestion and comfortable gut health with the Gut Support Drip at Beauty Code Clinic. Maintain a healthier, happier gut, and enhance your overall wellbeing.
+</p>
+                    
+                 
                 </div>
               </div>
             </div>

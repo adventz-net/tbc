@@ -100,21 +100,15 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    While sweating is a natural process, some people sweat more
-                    than others (a medical condition called hyperhidrosis).
+                   While sweating is a natural bodily function, some individuals experience excessive sweating, a condition known as hyperhidrosis. This not only can cause staining of clothes and body odor but also be a source of embarrassment.
                   </h4>
                   <p>
-                    Excessive sweating can stain clothes and be embarrassing. It
-                    also creates body odor.
+                    At Beauty Code Clinic, we offer sweat reduction treatments using Botox, a solution known for its versatility in aesthetic medicine. This treatment targets the sweat glands to reduce the amount of sweat produced in specific areas like underarms and hands.
                   </p>
                   <p>
-                    Sweat reduction treatment with Botox can target the sweat
-                    glands to reduce the amount of sweat produced in the target
-                    area, such as underarms and hands.
+                  Say goodbye to the discomfort and inconvenience caused by excessive sweating. Reach out to us today and discover how our sweat reduction treatments can enhance your comfort and confidence.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

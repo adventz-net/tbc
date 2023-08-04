@@ -99,22 +99,20 @@
                 <div class="service-it-con">
                  
                   <h4>
-                    If you experience loose skin and sagging tissue on your
-                    body, threads are dissolvable like-sutures inserted beneath
-                    the skin that causes new collagen to develop which further
-                    tightens and firms the skin.
+                   Combat loose skin and sagging tissue with our innovative Body Thread treatments. 
                   </h4>
                   <p>
-                    Most areas can be treated: breasts, butt, arms, abdomen,
-                    thighs, knees.
+                   These involve the insertion of dissolvable, suture-like threads beneath the skin. This prompts the development of new collagen, which tightens and firms the skin, leading to a more youthful and toned appearance.
                   </p>
                   <p>
-                    We always recommend to schedule your personalized
-                    consultation with our specialists.
+                   A wide variety of areas can be treated with Body Threads, including breasts, buttocks, arms, abdomen, thighs, and knees.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>
+                    For optimal results, we recommend scheduling a personalized consultation with our specialists. This will allow us to understand your unique needs and develop a customized treatment plan accordingly. At Beauty Code Clinic, we're committed to helping you look and feel your best from every angle.
+                    </p>
+                    
+                 
                 </div>
               </div>
             </div>

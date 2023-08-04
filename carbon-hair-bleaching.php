@@ -57,7 +57,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Carbon hair bleaching </h2>
+              <h2>Carbon Hair Bleaching </h2>
               <div class="hd-line"></div>
             </div>
           </div>
@@ -102,19 +102,17 @@
                 <div class="service-it-con">
                 
                   <h4>
-                    It is well-known that the fine hair (also known as baby
-                    hair) cannot be removed permanently by laser hair removal.
+                  While it's true that fine hair, often referred to as 'baby hair', cannot be permanently removed with traditional laser hair removal methods, our Spectra Hair Bleaching treatment offers an effective solution.
                   </h4>
                   <p>
-                    With our Spectra hair bleaching we are able to offer our
-                    patients non-permanent laser hair removal or laser hair
-                    bleaching of fine hair using Q-Switched ND: YAG Laser
-                    targeting the melanin of fine hair shaft and bleaching it
-                    thus making it invisible.
+                  With this treatment, we provide a non-permanent laser hair removal or hair bleaching service specifically for fine hair. We use a Q-Switched ND: YAG Laser that targets the melanin within the hair shaft, effectively bleaching it and rendering it virtually invisible.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>
+                    This way, even if you're struggling with persistent fine hair, Beauty Code Clinic has the cutting-edge solution to ensure you can enjoy smooth, hair-free skin. Trust in our innovative approach to help you achieve the results you desire.
+                    </p>
+                    
+                 
                 </div>
               </div>
             </div>

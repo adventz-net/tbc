@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Healthness</h5>
-              <h1>Booster Shots</h1>
+              <h1>Intra-muscular Booster Shots</h1>
               
             </div>
           </div>
@@ -102,21 +102,27 @@
                 <div class="service-it-con">
                   
                   <h4>
-The human body requires vitamin K for post-synthesis modification of certain proteins that are required for blood coagulation or for controlling binding of calcium in bones and other tissues.
+Unlock Better Health with Vitamin K Shot: Your Ally in Strong Bones, Heart Health, and More
  </h4>
+                    <p>
+                    Give your body the vital nutrients it needs with the Vitamin K Shot. Essential for the post-synthesis modification of certain proteins in your body, Vitamin K plays a key role in critical bodily functions like blood coagulation, binding of calcium in bones, and maintaining various tissues.
+                    </p>
                     
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Here's a glimpse of how the Vitamin K Shot benefits your health:</h4>
                     
                     <ul>
-                    <li>Prevention of osteoporosis and bone density improvement</li>
-                    <li>Reduce risk of cancer</li>
-                        <li>Cardiovascular health</li>
+                    <li>Prevention of Osteoporosis & Bone Density Improvement: Vitamin K is pivotal in maintaining bone health. The Vitamin K Shot promotes better absorption of calcium, aiding in preventing osteoporosis and improving bone density for stronger, healthier bones.</li>
+                        
+                    <li>Reduces Risk of Cancer: Boost your body's defense system with the Vitamin K Shot. It's designed to lower the risk of certain types of cancer, adding an extra layer of protection to your health.
+</li>
+                        <li>Cardiovascular Health: Keep your heart beating strong with the Vitamin K Shot. This potent blend supports cardiovascular health, ensuring your heart stays robust and healthy.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Vitamin K Shot: Your secret weapon against osteoporosis, a valuable ally in cancer prevention, and a champion for your heart health. Empower your overall wellness and live life to the fullest with the Vitamin K Shot.</p>
+                    
+                 
                 </div>
               </div>
             </div>

@@ -101,26 +101,33 @@
                 <div class="service-it-con">
                   
                   <h4>
-                     Experience relief from everyday stressors and put your mind at ease with the Stress IV.</h4>
+                     Experience respite from daily stress and ease your mind with our Anti-Stress IV Drip. </h4>
                    
-                    <p>This IV is formulated to improve your stress response, support adrenal function, and elevate your mood with body-balancing ingredients.</p>
+                    <p>This formulation is tailored to improve your body's stress response, support adrenal function, and uplift your mood with balancing ingredients.
+</p>
                     
-                    <p>The “Mitochondrial Free Radical Theory of Aging” (MFRTA) hypothesizes that the gradual and continuous production of reactive oxygen species (ROS) in mitochondria can cause oxidative lesions in mitochondrial DNA (mtDNA), with resultant mitochondrial dysfunction. Reactive oxygen species believed to be minimized by administering several anti-oxidants. Anti-stress and Antioxidant IV contain Selenium, Vitamin C, Zinc and Alpha-lipoic acid which are all said to be effective antioxidants.
+                    <p>The "Mitochondrial Free Radical Theory of Aging" (MFRTA) hypothesizes that the ongoing production of reactive oxygen species (ROS) in mitochondria can cause oxidative damage to mitochondrial DNA (mtDNA), leading to mitochondrial dysfunction. Administering antioxidants can minimize reactive oxygen species. Our Anti-Stress Drip is rich in Selenium, Vitamin C, Zinc, and Alpha-Lipoic Acid, all of which are acclaimed antioxidants.
                   </p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the Anti-Stress Drip:</h4>
                     
                     <ul>
-                    <li>Promotes stress relief</li>
-                    <li>Helps ease mood swings</li>
-                     <li>Reduces inflammation</li>
-                        <li>Combats cramping & irritability</li>
-                        <li>Better sleep</li>
+                    <li>Promotes Stress Relief: This drip helps to calm the body and mind, promoting relief from stress.
+</li>
+                    <li>Eases Mood Swings: With its balance of nutrients, this IV infusion can help to smooth out mood fluctuations.
+</li>
+                     <li>Reduces Inflammation: The included antioxidants work to reduce inflammation in the body.
+</li>
+                        <li>Combats Cramping & Irritability: This drip also helps to alleviate physical discomfort like cramping, as well as irritability.
+</li>
+                        <li>Encourages Better Sleep: By alleviating stress and promoting relaxation, this IV drip can improve sleep quality.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Turn to our Anti-Stress Drip at Beauty Code Clinic for a natural, effective solution to manage stress, enhance mood, and promote overall feelings of wellbeing.
+</p>
+                    
+                 
                 </div>
               </div>
             </div>

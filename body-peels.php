@@ -98,20 +98,20 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                  
-                  <h4>Clarify and rejuvenate your body skin.</h4>
+                  <h4>Reveal a revitalized, glowing skin all over your body with our specialized Body Peels.</h4>
                   <p>
-                    At Beauty code Clinic, the premier medical wellness center
-                    in Oman, we use peels to help our patients' body skin look
-                    and feel radiant and smooth.
+                  At Beauty Code Clinic, Oman's premier medical wellness center, we harness the transformative power of peels to help our patients' skin achieve a level of radiance and smoothness that revitalizes from the outside in.
                   </p>
                   <p>
-                    Common treatment areas for body peels include the back,
-                    chest, knees, elbows and buttocks, but nearly any area can
-                    be treated.
+                  Common treatment areas for body peels include the back, chest, knees, elbows, and buttocks. However, nearly any area of your body can be treated, revealing a consistent and radiant glow all over.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>
+                    Step into a world where beauty knows no bounds, and let us guide you in your journey towards a healthier, more confident you with our expert body peel treatments.
+                    </p>
+                    
+                    
+                 
                 </div>
               </div>
             </div>

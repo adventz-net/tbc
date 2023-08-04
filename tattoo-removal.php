@@ -103,14 +103,14 @@
                 <div class="service-it-con">
                  
                   <h4>
-Effective tattoo removal can be achieved with lasers by breaking up the pigment with a high-intensity light energy.
+Achieve effective tattoo removal with our advanced laser treatment. The procedure works by fragmenting the tattoo pigment using high-intensity light energy, allowing your body to gradually eliminate it.
                   </h4>
                     
-                    <p>During consultation, our therapist can evaluate your tattoo and advise you on the process. Generally, the number of laser sessions you will require will depend on the age, size and colors of your tattoo. We also have to take your skin color into consideration, which will also determine the effectiveness of the removal technique.</p>
+                    <p>During your initial consultation, our experienced therapist will evaluate your tattoo and guide you through the removal process. Factors such as the age, size, and colors of your tattoo, as well as your skin color, will be considered to determine the number of laser sessions required and the overall effectiveness of the removal technique.</p>
+                    
+                    <p>At Beauty Code Clinic, we provide customized solutions to meet your unique needs. Whether you're moving on from a past decision or making room for new ink, trust us to help you navigate your tattoo removal journey with professionalism and care</p>
                   
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

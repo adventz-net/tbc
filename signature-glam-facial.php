@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Face Procedures</h5>
-              <h1> Enlightened Facial Features & Brighter Smiles</h1>
+              <h1> Illuminating Your Beauty</h1>
               
             </div>
           </div>
@@ -101,17 +101,15 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    Achieve instant skin brightening glow using our signature
-                    mixture boosters to stimulate cellular regeneration &
-                    collagen production, while improving skin health.
+                   Experience an immediate radiance boost with our signature mixture of brightening enhancers.
                   </h4>
                     
-                    <p>Best for preventing and reducing early signs of aging, boosts and enhances the skin barrier to prevent loss of collagen and moisture, revealing a more supple texture.</p>
+                    <p>These potent solutions stimulate cellular regeneration and bolster collagen production, resulting in healthier, glowing skin.</p>
+                    
+                    <p>Ideal for combating early signs of aging, our treatments work to preserve and augment the skin's natural protective barrier. In doing so, we prevent collagen loss and moisture depletion, unveiling a skin texture that's not just more supple, but also resilient. Embrace a youthful glow that's more than skin-deep – it's a reflection of holistic wellness and meticulous care.</p>
                     
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

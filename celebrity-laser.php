@@ -123,27 +123,28 @@
                 <div class="service-it-con">
                   
                   <h4>
-Lasemd is an intelligent skin rejuvenation program that maximizes the absorption of revitalizing compounds by penetrating the skin barrier using:
+Experience intelligent skin rejuvenation with our comprehensive program, designed to maximize the absorption of revitalizing compounds deep into your skin. 
+                    </h4>
+                    
+                    <h4>
+                    This involves a dynamic combination of advanced skincare technologies:
                     </h4>
                     
                     <ul>
                     <li>
-<strong>Lasemd Laser:</strong> Creates micro channels through the skin, creates small reservoirs under the surface of the skin.
-                  </li>
+Lasemd Laser: This creates micro-channels in the skin, forming small reservoirs under the skin's surface to facilitate better absorption of the rejuvenating compounds.  </li>
                     
-              <li><strong>Lasemd NanoSerums:</strong>
-Nanoparticles contained the reservoirs for deep absorption in the skin. </li>
+              <li>Lasemd Nano Serums: These serums come packed with nanoparticles that fill the reservoirs created by the laser, ensuring deep penetration and absorption in the skin.</li>
 
-<li><strong>Lasemd Cream:</strong>
-Traps moisture and provides hydration. </li>
+<li>Lasemd Cream: This works to trap moisture and provide hydration, essential for maintaining a plump, radiant complexion. </li>
 
-<li><strong>Lasemd Mask:</strong>
-Retains the active ingredients of the serums. </li>
+<li>Lasemd Mask: This locks in the active ingredients of the serums, enabling sustained release and absorption for maximal effect. </li>
     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>At Beauty Code Clinic, we blend innovation and expertise to create skincare solutions that go beyond the surface. With our advanced Lasemd program, embrace the revitalizing power of intelligent skin rejuvenation.</p>
+                    
+                    
+                 
                 </div>
               </div>
             </div>

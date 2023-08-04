@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Healthness</h5>
-              <h1>Booster Shots</h1>
+              <h1>Intra-muscular Booster Shots</h1>
               
             </div>
           </div>
@@ -101,20 +101,25 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                   
-                  <h4>
-The Beauty B Shot is formulated to help you glow from the inside out by supporting hair, skin, and nail health. </h4>
+                  <h4>Unveil Your Inner Glow with Beauty B Shot: Your Passport to Radiant Health
+ </h4>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <p>Radiate health and beauty with the Beauty B Shot, expertly formulated to elevate your aesthetic appeal from the inside out. This powerful formula supports the health of your hair, skin, and nails, giving you a radiant, youthful look that speaks volumes about your health.</p>
+                    
+                    <h4>Here's how the Beauty B Shot enriches your beauty and health:
+</h4>
                     
                     <ul>
-                    <li>Hair, skin & nail support</li>
-                    <li>Support bone health & prevent osteoporosis</li>
-                        <li>Helps with red blood cell formation & anemia prevention</li>
+                    <li>Hair, Skin & Nail Support: Nourish your hair, skin, and nails from within. The Beauty B Shot is chock-full of essential nutrients designed to maintain and enhance the health and vitality of your hair, skin, and nails.
+</li>
+                    <li>Support Bone Health & Prevent Osteoporosis: Strong bones form the foundation of a healthy body. The Beauty B Shot aids in maintaining robust bone health and preventing osteoporosis.</li>
+                        <li>Helps with Red Blood Cell Formation & Anemia Prevention: Red blood cells play a crucial role in carrying oxygen throughout your body. The Beauty B Shot supports red blood cell formation and helps to prevent anemia, ensuring your body has the oxygen it needs to function optimally.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>The Beauty B Shot: Treat yourself to a dose of true beauty – a kind that comes from within and radiates outward. Make every day a beautiful day with the Beauty B Shot.</p>
+                    
+                 
                 </div>
               </div>
             </div>

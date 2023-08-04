@@ -102,21 +102,25 @@
                 <div class="service-it-con">
                   
                   <h4>
-This Drip is tailored with high dose of vitamin and minerals required to boost the body’s immune system. 
+Equip your body with the defense it needs with our Immune Boost Drip. This IV infusion is tailored with a high dose of vitamins and minerals required to boost your body's immune system.
 </h4>
-                    <p>A complete plan to those who need to improve their immune systems and elevate their body’s response to different infections. It focuses on balancing vitamin and mineral levels, improve energy and increase the body’s immune defense.</p>
+                    <p>This treatment is perfect for those looking to improve their immune systems and elevate their body's response to various infections. The Immune Boost Drip focuses on balancing vitamin and mineral levels, improving energy, and increasing the body’s immune defense.</p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the Immune Boost Drip:</h4>
                     
                     <ul>
-                    <li>Enhance immune system</li>
-                    <li>Improves detoxification</li>
-                        <li>Reduces inflammation</li>
+                    <li>Enhances the Immune System: This drip arms your body with the necessary nutrients to strengthen your immune system, boosting your resilience to illness and disease.
+</li>
+                    <li>Improves Detoxification: By helping your body efficiently get rid of toxins, this IV infusion further supports your immune health.
+</li>
+                        <li>Reduces Inflammation: The Immune Boost Drip contains natural anti-inflammatories to help reduce systemic inflammation, a common culprit in many health issues.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Embark on the journey towards robust health with the Immune Boost Drip at Beauty Code Clinic. Fight off potential infections and illnesses with the power of optimal nutrition.
+</p>
+                    
+                 
                 </div>
               </div>
             </div>

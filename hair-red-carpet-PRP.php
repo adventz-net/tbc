@@ -108,13 +108,14 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                  
-                  <h4>
-The red carpet treatment mixes PRP and Mesotherapy based on high concentrates of antioxidants, vitamins and hyaluronic acid that promotes regeneration of collagen and acts as a boost of overall skin health.
-                    </h4>
+                 <h4>
+Step into the spotlight with our Red Carpet Treatment - a luxurious blend of PRP and Mesotherapy designed to bestow your skin with a star-studded glow.</h4>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>This treatment employs high concentrations of antioxidants, vitamins, and hyaluronic acid, all of which work in tandem to stimulate collagen regeneration and elevate overall skin health. </p>
+                    
+                    <p>Our Red Carpet Treatment isn't just about a one-time glow. Its profound rejuvenating effects serve as a booster shot to your skin's resilience and vitality, making it a popular choice amongst those seeking long-lasting radiance. At Beauty Code Clinic, we believe in delivering not just immediate results, but also lasting improvements, facilitating a beautiful journey towards healthier, more radiant skin.</p>
+                    
+                 
                 </div>
               </div>
             </div>

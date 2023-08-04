@@ -119,28 +119,28 @@
                 <div class="service-it-con">
                  
                   <h4>
-A revolutionary nonsurgical cosmetic treatment that combines two of the most effective anti-aging technologies on the market: Radiofrequency energy and Microneedling. 
+Experience the future of age-defiance with our revolutionary non-surgical cosmetic treatment that merges two highly effective anti-aging technologies - Radiofrequency energy and Microneedling.
                   </h4>
                     
-                    <h4>Targets</h4>
+                    <h4>This potent combination targets a range of skin concerns, including:</h4>
                     
                     <ul>
-                    <li>Fine lines & wrinkles</li>
-                        <li>Skin laxity</li>
-                        <li>Uneven skin tone</li>
-                        <li>Acne scars</li>
-                        <li>Stretch marks </li>
+                    <li>Fine Lines & Wrinkles: For a smoother, more youthful appearance.</li>
+                        <li>Skin Laxity: To firm and tighten areas of sagging skin.</li>
+                        <li>Uneven Skin Tone: To attain a more harmonious, radiant complexion.</li>
+                        <li>Acne Scars: To minimize the appearance of past blemishes.</li>
+                        <li>Stretch Marks: To reduce visible signs of skin stretching.</li>
                     </ul>
                     
                   <p>
-At Beauty code clinic, we are committed to bringing the world’s most advanced skin rejuvenation and skin tightening treatment.
+Discover the magic of Smart 3D RF at Beauty Code Clinic, your gateway to the world's most advanced skin rejuvenation and tightening treatments. 
                   </p>
+                    
                   <p>
-Consult our team of experts to discover the best treatment plan for your skin.
-                  </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+We invite you to consult with our team of experts to devise the ideal treatment plan to restore your skin's youthful glow and resilience. With Beauty Code Clinic, age is just a number, and radiant, younger-looking skin is always within reach. 
+                    </p>
+                    
+                 
                 </div>
               </div>
             </div>

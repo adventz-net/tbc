@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Healthness</h5>
-              <h1>Booster Shots</h1>
+              <h1>Intra-muscular Booster Shots</h1>
               
             </div>
           </div>
@@ -57,7 +57,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Intra-muscular booster shots - Vitamin D3</h2>
+              <h2>Vitamin D3</h2>
               <div class="hd-line"></div>
             </div>
           </div>    
@@ -113,9 +113,7 @@ It reserves the negative effects of vitamin D deficiency by raising the vitamin 
                         <li>Prevent osteoporosis </li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

@@ -9,36 +9,60 @@
 
 
     <section class="ins-banner-sec">
+
       <div class="ins-banner-cover">
+
         <div
+
           id="carouselBanner"
+
           class="carousel slide carousel-fade"
+
           data-bs-ride="carousel"
+
           data-bs-interval="3000"
+
         >
+
           <div class="carousel-inner">
+
             <div class="carousel-item active">
+
               <img
+
                 class="slider-web"
+
                 src="images/ins-slider-01.jpg"
+
                 alt="Banner"
+
               />
+
             </div>
+
           </div>
+
         </div>
 
         <div class="ins-banner-body">
+
           <div class="continer-xxl">
+
             <div class="ins-banner-content">
-              <h5>Healthness</h5>
-              <h1>Intravenous Drips</h1>
+
+                <h5>Healthness</h5>
+
+                <h1>Intravenous Drips</h1>
+
             </div>
+
           </div>
+
         </div>
+
       </div>
 
       <div class="banner-overlay">
-        <div class="line-overlay"></div>
 
         <div class="line-overlay"></div>
 
@@ -53,10 +77,16 @@
         <div class="line-overlay"></div>
 
         <div class="line-overlay"></div>
+
+        <div class="line-overlay"></div>
+
       </div>
 
       <?php include ('includes/nav-sticky.php'); ?>
+
     </section>
+
+
 
     <main class="content-sec con-no-pd content-bg" data-aos="">
       <section class="section-sec">
@@ -69,10 +99,8 @@
                 data-aos-delay="100"
                 data-aos-duration="1500"
               >
-                <h2>
-                  Discover the beauty code extensive selection of <br />IV drips
-                  & shots and enjoy your journey with us
-                </h2>
+                <h2> Discover the beauty code extensive selection of <br />IV drips
+                  & shots and enjoy your journey with us</h2>
 
                 <div class="hd-line"></div>
               </div>
@@ -87,12 +115,20 @@
             <div class="col-12">
               <ul class="nav extensive-tb-nav">
                 <li class="nav-item">
-                  <a class="nav-link active" href="javascript:;">
+                  <a
+                    class="nav-link active"
+                    href="javascripts:;"
+                  >
                     IV drips
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="booster-shots.php">Shots</a>
+                  <a
+                    class="nav-link"
+                    href="booster-shots.php"
+                  >
+                    Shots
+                  </a>
                 </li>
               </ul>
             </div>
@@ -105,6 +141,7 @@
                   aria-labelledby="extensive-nav-01"
                   tabindex="0"
                 >
+                    
                   <div class="row gx-2 gx-xxl-3">
                     <div class="row gx-2 gx-xxl-3">
                       <div class="col-12 col-dis-item">
@@ -223,7 +260,7 @@
                             </figure>
 
                             <div class="dis-item-body">
-                              <h4>Glow and Radiant Drip</h4>
+                              <h4>Glamour Drip</h4>
 
                               <div class="explore">
                                 Explore <i class="bi bi-arrow-down-right"></i>
@@ -280,7 +317,7 @@
                             </figure>
 
                             <div class="dis-item-body">
-                              <h4>Hair Regenerate Drip</h4>
+                              <h4>Hair Revitalize Drip</h4>
 
                               <div class="explore">
                                 Explore <i class="bi bi-arrow-down-right"></i>
@@ -403,6 +440,7 @@
                   aria-labelledby="extensive-nav-02"
                   tabindex="0"
                 >
+                    
                   <div class="row gx-2 gx-xxl-3">
                     <div class="col-12 col-dis-item">
                       <div class="dis-item-cover">
@@ -488,7 +526,9 @@
                         ></a>
                       </div>
                     </div>
-
+                      
+                      
+                      
                     <div class="col-12 col-dis-item">
                       <div class="dis-item-cover">
                         <a href="vitamin-K-shot.php"
@@ -497,7 +537,7 @@
                           </figure>
 
                           <div class="dis-item-body">
-                            <h4>Vitamin K Shot</h4>
+                            <h4>Vitamin K Shot </h4>
 
                             <div class="explore">
                               Explore <i class="bi bi-arrow-down-right"></i>
@@ -505,6 +545,7 @@
                         ></a>
                       </div>
                     </div>
+                      
                   </div>
                 </div>
               </div>
@@ -513,6 +554,7 @@
         </div>
       </section>
     </main>
+
 
 
 

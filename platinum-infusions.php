@@ -99,18 +99,21 @@
                 <div class="service-it-con">
                  
                   <h4>
-                    Minimally invasive procedure where a series of superfine
-                    injections of vitamins, minerals and amino acid cocktails
-                    are delivered into the scalp, triggering new cell
-                    generation.
+                    Revitalize your scalp with our Platinum Infusions - a minimally invasive treatment designed to encourage new cell generation and improve scalp health. 
                   </h4>
                   <p>
-                    We recommend you to book your consultation now with our
-                    experts.
+                  This procedure involves the delivery of a series of superfine injections directly into the scalp. Each injection is a potent cocktail of vitamins, minerals, and amino acids.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>
+                    The Platinum Infusion treatment stimulates the scalp at a cellular level, triggering the growth of new cells and fostering a healthier environment for robust hair growth.
+                    </p>
+                    
+                    <p>
+                    We invite you to book your consultation with our experts at Beauty Code Clinic. Discover how our Platinum Infusions can enhance not just your scalp health, but also your confidence in your hair.
+                    </p>
+                    
+                 
                 </div>
               </div>
             </div>

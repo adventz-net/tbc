@@ -56,7 +56,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Glow and radiant drip </h2>
+              <h2>Glamour drip </h2>
               <div class="hd-line"></div>
             </div>
           </div>    
@@ -101,22 +101,27 @@
                 <div class="service-it-con">
                   
                   <h4>
-Glow and radiant drip which is vital on detoxifying the skin. 
-</h4>
-                    <p>A program which supports clients with concerns regarding the skin health, radiance and pigmentation.
+Experience a radiant transformation with our Glow and Radiant Drip, designed to detoxify and rejuvenate your skin. </h4>
+                    
+                    <p>This IV infusion is ideal for clients who are concerned about skin health, radiance, and pigmentation, offering targeted nutrients to boost your skin's natural glow.
                   </p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the Glow and Radiant Drip:
+</h4>
                     
                     <ul>
-                    <li>powerful anti-oxidants </li>
-                    <li>skin improving minerals</li>
-                        <li>Skin health</li>
+                    <li>Powerful Antioxidants: This drip delivers a potent dose of antioxidants, known for their ability to neutralize damage-causing free radicals and enhance skin health.
+ </li>
+                    <li>Skin-Improving Minerals: Our Glow and Radiant Drip infuses your skin with vital minerals that improve its overall health and appearance.
+</li>
+                        <li>Enhances Skin Health: By delivering essential nutrients directly to your cells, this drip promotes better skin health, radiance, and texture.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Unleash your skin's natural radiance with the Glow and Radiant Drip at Beauty Code Clinic. Let your skin health shine from within and reveal a more radiant, healthier-looking you.
+</p>
+                    
+                 
                 </div>
               </div>
             </div>

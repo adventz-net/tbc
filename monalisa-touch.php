@@ -99,18 +99,19 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    MonaLisa Touch is one type of vaginal rejuvenation that uses
-                    a gentle laser to stimulate collagen production of the
-                    tissues within the vaginal wall.
+                   Monalisa Touch is a unique form of vaginal rejuvenation that uses a gentle laser to stimulate collagen production within the tissues of the vaginal wall. This innovative treatment can help restore the natural elasticity and health of vaginal tissues.
                   </h4>
                   <p>
-                    At Beauty Code, we have many other treatments to restore the
-                    trophic conditions of the vaginal and vulvar area.
+                  At Beauty Code Clinic, we offer a range of treatments designed to rejuvenate the vaginal and vulvar area, restoring their trophic conditions and enhancing overall comfort and wellness.
                   </p>
+                    
+                    <p>
+                    To explore the various options we have to offer and determine the best treatment for you, we invite you to schedule a consultation with us today. Our team of experts is committed to providing you with the most effective, personalized solutions to meet your unique needs.
+                    </p>
+                    
+                    
                   <p>Schedule your consultation today.</p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

@@ -100,24 +100,27 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                   
-                  <h4>
-It is just the right mix of vitamins and minerals that helps you have overall wellness. </h4>
-                    <p>Myers will keep body in balance, support energy, immune, muscles and sleep.
-                  </p>
+                  <h4>Experience all-round wellness with our Myers Cocktail, a balanced blend of vitamins and minerals designed to ensure optimal health. </h4>
                     
-                    <p>In beauty code, you can have Myers with an additional specific formula to boost immune system, and/or shorten duration of illness as an extra defense for your body.</p>
+                    <p>This IV infusion helps maintain bodily balance, support energy levels, bolster immune function, aid muscle health, and improve sleep quality.  </p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <p>At Beauty Code Clinic, our Myers Cocktail can also be enhanced with specific formulas to boost your immune system and/or shorten the duration of illnesses, providing an extra layer of defense for your body.</p>
+                    
+                    <h4>Key Features of the Myers Cocktail:</h4>
                     
                     <ul>
-                    <li>Hydration</li>
-                    <li>Restoring balance to the system</li>
-                        <li>Fatigue reduction</li>
+                    <li>Enhances Hydration: This IV infusion replenishes your body's water levels, ensuring proper hydration and promoting overall health and wellness.
+</li>
+                    <li>Restores Balance: With its careful blend of nutrients, the Myers Cocktail helps restore balance to your system, supporting optimal bodily function.
+</li>
+                        <li>Reduces Fatigue: By replenishing essential nutrients and hydrating your system, this drip helps reduce fatigue and boosts energy levels.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>Experience the revitalizing effects of the Myers Cocktail at Beauty Code Clinic, and embark on a journey towards enhanced health and wellness. With the Myers Cocktail, you can enjoy feeling balanced, energized, and fundamentally healthy.</p>
+                    
+                 
                 </div>
               </div>
             </div>

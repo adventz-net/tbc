@@ -104,21 +104,18 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    Skin tags, warts and moles are usually harmless, and there
-                    are no known cases where they have become precancerous.
+                   Skin tags, warts, and moles are generally harmless and pose no risk of becoming precancerous. 
                   </h4>
                   <p>
-                    However, if the skin displays significant noticeable
-                    changes, such as an unusual change in its color or it begins
-                    to bleed, it is advisable to see a dermatologist.
+                  However, if your skin displays significant noticeable changes such as an unusual alteration in color or unexpected bleeding, seeking advice from a dermatologist is recommended.
                   </p>
+                    <p>
+                    At Beauty Code Clinic, we offer professional removal of skin tags, warts, and moles, ensuring that these minor skin concerns are resolved effectively and safely.
+                    </p>
                   <p>
-                    Book your consultation with our specialist dermatologist at
-                    Beauty code clinic today.
+                   Book a consultation with our specialist dermatologist today and have peace of mind knowing that your skin's health is in expert hands.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

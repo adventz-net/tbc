@@ -102,13 +102,14 @@
                 <div class="service-it-con">
                   
                   <h4>
-Recommended for clients prone to oily or acneic skin or for those with congested skin (blackheads/whiteheads) this generally incorporate a combination of cleansing, exfoliation, through facial extractions, high frequency, hydrating and purifying mask and moisturizer.</h4>
+Ideal for clients with a propensity for oily or acne-prone skin, or those dealing with congested skin (blackheads/whiteheads), we offer a comprehensive treatment designed specifically to address these concerns. </h4>
                     <p>
-At Beauty code, we generally recommend all clients to begin with this treatment to ensure the skin is clear of dead skin cells and debris for better penetration of serums & light source energies.
+Our solution incorporates a blend of deep cleansing, thorough exfoliation, meticulous facial extractions, high-frequency treatment, followed by a hydrating, purifying mask, and rounded off with a moisturizer.
                     </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>
+                    At Beauty Code, we highly recommend all clients to commence their beauty journey with this foundational treatment. Clearing the skin of dead skin cells and debris significantly enhances the absorption and effectiveness of serums and light source energies in subsequent treatments. Trust us to pave the way for optimal results with each carefully curated skin treatment.
+                    </p>
+                 
                 </div>
               </div>
             </div>

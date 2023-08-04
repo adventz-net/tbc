@@ -121,23 +121,24 @@
                 <div class="service-it-con">
                  
                   <h4>
-The fractional technology of Action II™ Erbium Yag Laser rejuvenation allows a painless procedure, a rapid healing process and minimal downtime.
+Discover the transformative power of our Pearl Resurfacing Laser treatment, utilizing the advanced fractional technology of Action II™ Erbium YAG Laser. This procedure offers an impressively painless experience, swift healing process, and minimal downtime.
                   </h4>
                     
-                    <h4>Indications for Laser resurfacing:</h4>
+                    <h4>Our Pearl Resurfacing Laser addresses a range of skin concerns, namely:</h4>
                     
                     <ul>
-                        <li>Shining Peel rejuvenation </li>
-                        <li>Scars: Acne Scars, Surgical Scars</li>
-                        <li> Large Pores</li>
-                        <li>Skin Tone</li>
-                        <li>Wrinkles </li>
-                        <li>Nevus-related & Epidermal Pigments </li>
+                        <li>Shining Peel Rejuvenation: Revitalize your skin with a glowing peel rejuvenation, revealing a fresher, more radiant complexion underneath.</li>
+                        <li>Scars: Effectively reduce the appearance of acne scars and surgical scars, promoting smoother, clearer skin.</li>
+                        <li>Large Pores: Minimize the visibility of large pores for a more refined skin texture and improved complexion.</li>
+                        <li>Skin Tone: Improve uneven skin tone, fostering a more balanced and harmonious complexion.</li>
+                        <li>Wrinkles: Diminish the visibility of wrinkles, revealing a smoother, more youthful appearance. </li>
+                        <li>Nevus-Related & Epidermal Pigments: Correct pigmentation issues related to birthmarks (nevi) and other epidermal pigments for more uniform skin color.</li>
                     </ul> 
                   
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>At Beauty Code Clinic, our Pearl Resurfacing Laser treatment is more than just a procedure - it's a transformative journey towards your most radiant self.</p>
+                    
+                    
+                 
                 </div>
               </div>
             </div>

@@ -99,27 +99,21 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    Picoway is a non-invasive laser treatment designed
-                    specifically to correct discoloration and blemishing.
+                   Discover a new dimension of skin revitalization with our PICO Skin Revitalization treatment. 
                   </h4>
                   <p>
-                    What differentiates this treatment from the other lasers on
-                    the market is how it delivers a unique set of wavelengths at
-                    a rate of one picosecond per pulse.
+                  This non-invasive laser treatment is uniquely designed to correct discoloration and blemishes, restoring the clarity and luminosity of your skin.
                   </p>
                   <p>
-                    A picosecond is one trillionth of a full second. That tiny
-                    amount of laser energy is enough to penetrate the skin and
-                    break down targeted structures without causing any thermal
-                    change.
+                   The distinguishing feature of this treatment from other lasers on the market is its delivery of a unique set of wavelengths at an incredibly fast rate of one picosecond per pulse. A picosecond is one trillionth of a full second, and this minuscule amount of laser energy is ample to penetrate the skin and break down targeted structures without causing any thermal changes.
                   </p>
                   <p>
-                    Areas most treated: neck, back, buttocks, elbows, abdomen,
-                    knees, hands.
+                  Commonly treated areas with PICO Skin Revitalization include the neck, back, buttocks, elbows, abdomen, knees, and hands.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>
+                    Experience the transformative power of PICO Skin Revitalization at Beauty Code Clinic and embrace a clearer, more radiant complexion.
+                    </p>
+                 
                 </div>
               </div>
             </div>

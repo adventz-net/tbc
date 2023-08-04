@@ -121,20 +121,16 @@
                 <div class="service-it-con">
                  
                   <h4>
-                    Put an end to slow, messy and painful methods of hair
-                    removal such as shaving, waxing, tweezing and hair removal
-                    creams.
+                  Say goodbye to slow, messy, and painful hair removal methods like shaving, waxing, tweezing, and depilatory creams. Embrace the freedom that comes with being hair-free - because when you're hair-free, you're carefree.
                   </h4>
-                  <p>Hair free gets you Care free</p>
+                    
+                  <p>At Beauty Code, Oman's leading laser hair removal destination, we offer a unique experience that promises effective results. Our gold-standard treatments, featuring the highly-regarded Clarity II and Gentlepro systems, are suitable for all skin types.</p>
+                    
                   <p>
-                    At Beauty code, Oman leading laser hair removal destination,
-                    we guarantee a unique experience and effective results,
-                    offering the gold standard suitable for all skin types with
-                    Clarity II and Gentlepro.
+                   Step into the world of hassle-free, painless hair removal, and discover the freedom that comes with lasting smoothness at Beauty Code Clinic.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                 
                 </div>
               </div>
             </div>

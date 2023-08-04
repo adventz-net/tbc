@@ -119,21 +119,18 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                  
-                  <h4>Sun damage can result in hyperpigmentation in the form of dark spots and melasma.</h4>
+                  <h4>The journey of life brings with it changes to our skin. </h4>
+                    
                     <p>
-                    Signs of aging like fine lines and wrinkles can prevent us from having the smooth skin texture of our youth.
+Sun damage can cause hyperpigmentation, resulting in dark spots and melasma, while natural aging may lead to fine lines and wrinkles, making the skin less smooth than it once was.
                   </p>
                   <p>
-                   These and other skin problems are often difficult to treat, but there is a solution. 
-
+While these skin issues can be challenging to treat, they aren't insurmountable. And the solution lies with us at Beauty Code Clinic.
                   </p>
                   <p>
-                   At Beauty code clinic, we offer Picoway to effectively address these concerns and improve the health and beauty of your skin. 
-
+We offer the innovative PicoWay treatment, specifically designed to address these concerns effectively, enhancing both the health and beauty of your skin. PicoWay heralds a new era in skin revitalization, offering a path to rejuvenated skin that's as smooth as it is radiant. Trust in our expertise, and together, let's unveil your best skin yet.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

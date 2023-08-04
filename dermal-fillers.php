@@ -105,17 +105,16 @@
                 <div class="service-it-con">
                   
                   <h4>
-Fillers are versatile cosmetic injectables that can enhance your natural beauty and restore a youthful appearance. 
-                    </h4>
+Fillers, the versatile cosmetic injectables, are your secret to emphasizing the natural beauty that exists within you. Beyond surface-level enhancements, they offer a means to restore a youthful vibrancy that time may have dulled. </h4>
                     <p>
-Experience an instant confidence boost by creating lift, restoring volume, smoothing deep creases, and contouring facial features, with minimal downtime and long-lasting results.
+With our expertly-administered fillers, you can instantly uplift your confidence. They are designed to provide lift, restore lost volume, smooth out deep creases, and contour facial features to your desire. The best part? All of these benefits come with minimal downtime and promise long-lasting results.
                     </p>
                     
-                  
+                  <p>
+                   At Beauty Code Clinic, we believe that beautification is not just about change, but about restoration and enhancement. Experience the transformative power of our filler treatments, and step into a fresher, more youthful version of you. 
+                    </p>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

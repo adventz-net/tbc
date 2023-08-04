@@ -113,9 +113,7 @@ Vitamins and minerals in this drip help cleanse your liver from body toxins. </h
                         <li>Promotes brain health</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

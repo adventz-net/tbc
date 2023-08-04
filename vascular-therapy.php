@@ -56,7 +56,7 @@
               data-aos-delay="100"
               data-aos-duration="1500"
             >
-              <h2>Vascular Therapy </h2>
+              <h2>Vascular Therapy: spider and varicose veins treatment</h2>
               <div class="hd-line"></div>
             </div>
           </div>
@@ -105,17 +105,17 @@
                 <div class="service-it-con">
                   
                   <h4>
-                   Spider veins, medically called telangiectasias, are small blood vessels (capillaries) near the skin’s surface that are broken or dilated.
-                  </h4>
+Spider veins, medically known as telangiectasias, are small, broken or dilated blood vessels that reside near the skin's surface.  </h4>
                   <p>
-                    Varicose veins are larger dilated blood vessels that may bulge through the skin and be blue, dark purple or flesh-colored.
+Varicose veins, on the other hand, are larger dilated blood vessels that may protrude through the skin, appearing blue, dark purple, or flesh-colored.
                   </p>
                   <p>
-                  At Beauty code Clinic, as pioneers, we offer spider vein and varicose vein treatment with our exclusive Nordlys Ndyag.
+At Beauty Code Clinic, we pioneer the treatment of spider and varicose veins with our exclusive Nordlys NdYAG system. This technology allows us to safely and effectively treat these common vascular issues, improving both the health and the appearance of your skin.
                   </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>Don't let spider or varicose veins hold you back from feeling confident and comfortable in your skin. Reach out to us today and discover how our vascular therapy can make a difference in your life.</p>
+                    
+                 
                 </div>
               </div>
             </div>

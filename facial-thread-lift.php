@@ -107,19 +107,16 @@
                 <div class="service-it-con">
                        
                  
-<h4>Ageing and sun damage cause our skin to lose collagen and elastin, the fibers that support the skin and keep it flexible and elastic.</h4> 
+<h4>Counteract the effects of aging and sun damage with our Facial Thread Lift. </h4> 
                   
-                   <p>As these degrade over time, our skin becomes less resilient, and wrinkles and sagging develop.
-                    </p>
-                    <p>
-Non-surgical face lift using fine threads inserted underneath the skin to position facial tissue in a certain “lifted” state; helps reposition volume and reshape the face. Areas of treatment: face, jaw line, & neck.
-                    </p>
+                   <p>As skin loses collagen and elastin due to natural aging and sun exposure, it can lead to the development of wrinkles and sagging.</p>
                     
-                  
+                    <p>However with our non-surgical face lift solution, we can combat these signs effectively. We use fine threads, inserted beneath the skin, to lift and reposition facial tissue. This creates a natural-looking lift that does more than just reposition volume - it reshapes the face, restoring a youthful contour.</p>
+                   
+                    <p>Our Facial Thread Lift can be applied to various areas including the face, jawline, and neck. At Beauty Code, we help you embrace the passing years with grace and beauty, offering treatments designed to renew your youthful vigor and radiance. </p>
+                        
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                 
                 </div>
               </div>
             </div>

@@ -103,17 +103,32 @@
                 <div class="service-it-con">
                   
                   <h4>
-Surgical bariatric procedures are effective for weight loss in the long-term, but are also very invasive. 
+Reclaim Your Strength with Bariatric and Post-Operative Drip: Your Partner in Recovery
 </h4>
-                    <p>Many patients report hormonal imbalance, post-surgical complications and nutrient deficiencies.</p>
+                    <p>Post-surgery recovery especially after bariatric procedures can be a complex journey. The invasive nature of these procedures can often leave patients grappling with hormonal imbalances, nutritional deficiencies, and post-surgical complications.</p>
                     
                    <p>
-Most people notice that they feel better within hours of administration. Getting IV therapy after bariatric surgeries for restoring vital nutrients in the body.
+Enter the Bariatric and Post-Operative Drip, a powerful blend designed to supplement and restore vital nutrients in your body, ensuring a smoother, healthier recovery journey.
                     </p>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>
+                    With the Bariatric and Post-Operative Drip, you can anticipate feeling rejuvenated within hours of administration. This carefully curated drip brings the much-needed relief and nourishment to accelerate your recovery, bringing you back to your vibrant self.
+                    </p>
+                    
+                    <h4>Here's how the Bariatric and Post-Operative Drip can aid your recovery:</h4>
+                    <ul>
+                    <li>Restores Vital Nutrients: Post-operative recovery demands optimal nutrition. The Bariatric and Post-Operative Drip is rich with essential nutrients to replenish your body and support your healing process.</li>
+                        <li>Balances Hormones: Hormonal imbalances are a common aftermath of invasive surgeries. This drip helps to restore hormonal balance, contributing to your overall wellbeing.
+</li>
+                   <li> Supports Post-Surgical Recovery: This drip is a support-system in a bottle. It contains essential nutrients that can aid in fast recovery post-surgery, helping you come back stronger.
+</li>
+                        </ul>
+                    
+                    
+                    <p>Bariatric and Post-Operative Drip: Your fast-track ticket to recovery, helping you return to the joys of healthy living sooner.
+</p>
+                    
+                 
                 </div>
               </div>
             </div>

@@ -90,7 +90,7 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/vitamin-shot.jpg" alt="Image" />
+                        <img src="images/iv-drips-img03.jpg" alt="Image" />
                       </div>
                      
                     </div>
@@ -100,24 +100,26 @@
               <div class="service-it-body">
                 <div class="service-it-con">
                   
-                  <h4>
-                    Anemia is a condition in which the number of red blood cells is insufficient to meet physiologic needs; </h4>
+                  <h4>Anemia, a condition characterized by insufficient red blood cells to meet physiological needs, is often caused by various conditions, particularly iron deficiency.  </h4>
                    
-                    <p>it is caused by many conditions, particularly iron deficiency. Traditionally, iron and vitamin B9 supplementation has been a standard practice for preventing and treating anemia.</p>
+                    <p>Traditionally, supplementation with iron and Vitamin B9 has been a standard practice for preventing and treating anemia.</p>
                     
-                    <p>Blood Boost and Iron IV Drips are reported to acts as a preventive supplement for anemia.</p>
+                    <p>Our Iron Boost and Blood Boost IV Drips are designed to serve as preventative supplements for anemia, helping to maintain healthy red blood cell counts and iron levels.</p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Key Features of the Iron Boost:</h4>
                     
                     <ul>
-                    <li>Increase iron level and hemoglobin in the body</li>
-                    <li>Enhanced immunity </li>
-                        <li>Overall blood health improvement </li>
+                    <li>Increases Iron Levels and Hemoglobin: This IV drip helps replenish iron levels in the body, contributing to increased hemoglobin, which is crucial for carrying oxygen in your blood.
+</li>
+                    <li>Enhances Immunity: Adequate iron levels are essential for a healthy immune system, making this IV drip a great way to boost your body's natural defenses.
+</li>
+                        <li>Improves Overall Blood Health: By providing essential nutrients for blood health, this treatment promotes overall blood health improvement.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>With our Iron Boost, you can strengthen your body's ability to produce healthy red blood cells and prevent the onset of anemia. Experience the benefits of optimal iron levels with Beauty Code Clinic's tailored IV infusions.</p>
+                    
+                 
                 </div>
               </div>
             </div>

@@ -105,14 +105,23 @@
                 <div class="service-it-con">
                    
                   <h4>
-Based on vitamin C  to brighten, repair, and smooth the skin.
+Leverage the potent benefits of Vitamin C with our specialized treatment, designed to brighten, repair, and smooth your skin. 
                     </h4>
-                    <p>
-Along with promoting smoother skin, vitamin C is also known to provide aging support and help your skin recover from the effects of heat, sun, and humidity. 
-                    </p>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <h4>
+This essential nutrient, renowned for its skin-enhancing properties, delivers a host of benefits:
+                    </h4>
+                    
+                    <ul>
+                    <li> Brightens Skin: Vitamin C works to diminish dullness, revealing a complexion that is radiant and full of life.</li>
+                      <li>Repairs Skin: It aids in the repair process of damaged skin cells, promoting overall skin health and resilience.</li>
+                          <li>Smoothens Skin: By promoting collagen production, Vitamin C helps maintain skin's elasticity, resulting in a smoother, youthful appearance. </li>
+                          <li>Aging Support: With its powerful antioxidant properties, Vitamin C is known to fight free radicals, thereby supporting the skin's natural aging process. </li>
+                        <li>Protects Against Environmental Damage: Vitamin C helps to safeguard your skin from the detrimental effects of heat, sun exposure, and humidity, ensuring your skin remains healthy and vibrant. </li>
+                    </ul>
+                    
+                    <p>With Beauty Code Clinic, include Vitamin C in your skincare routine, and watch as it works its magic to present you with skin that's not just healthy, but positively glowing.</p>
+                    
+                 
                 </div>
               </div>
             </div>

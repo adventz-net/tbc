@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Face Procedures</h5>
-              <h1> Enlightened Facial Features & Brighter Smiles </h1>
+              <h1> Illuminating Your Beauty </h1>
               
             </div>
           </div>
@@ -120,25 +120,26 @@
               </figure>
               <div class="service-it-body">
                 <div class="service-it-con">
-                  
+                  <h4>Presenting the latest innovation in aesthetic technology - our advanced Dermapen.</h4>
                   <p>
-                   Latest generation has arrived. This Dermapen is a unique automated micro-needling system to stimulate collagen and elastin naturally with maximum coverage.
-                  </p>
-                    <h4>Effectiveness of this method:</h4>
+This unique automated micro-needling system is designed to stimulate natural collagen and elastin production, providing maximum coverage with minimum downtime. </p>
+                    
+                    <h4>Benefits of our Dermapen include:</h4>
                     
                     <ul>
-                    <li>Skin tightening, lifting and rejuvenation</li>
-                         <li>Improving acne scars and wound healing</li>
-                         <li>Improving wrinkles and fine lines</li>
-                         <li>Minimizing pores size and uneven skin surface</li>
-                        <li>Improving stretch marks</li>
-                        <li>Lightening hyperpigmentation with active serums</li>
+                    <li>Skin Tightening, Lifting and Rejuvenation: Experience a firm, youthful lift and renewed vitality with each session.</li>
+                         <li>Acne Scars and Wound Healing: Notice a significant reduction in acne scars and enhanced wound healing for smoother, clearer skin.</li>
+                         <li>Wrinkles and Fine Lines Improvement: Watch as fine lines and wrinkles soften, revealing a smoother, more youthful appearance.</li>
+                         <li>Minimized Pore Size and Uneven Skin Surface: Enjoy a more refined skin texture with reduced pore size and an even complexion.</li>
+                        <li>Stretch Marks Improvement: Witness a remarkable reduction in the appearance of stretch marks, for skin that's as smooth as it is resilient.</li>
+                        <li>Hyperpigmentation Lightening: With the use of active serums, expect a noticeable lightening of hyperpigmentation for a more even, radiant skin tone.</li>
                     </ul>
                     
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Embrace the fusion of science and beauty with our Dermapen treatments. Feel the transformation unfold as each session leaves your skin visibly firmer, smoother, and markedly rejuvenated. At Beauty Code Clinic, we don't just enhance your beauty, we help you discover the confidence that comes with skin that looks as good as it feels. Plunge into this innovative journey towards achieving your skin goals, with the assurance of a team that prioritizes your wellbeing and satisfaction above all.</p>
+                    
+                    
+                 
                 </div>
               </div>
             </div>

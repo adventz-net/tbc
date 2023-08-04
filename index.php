@@ -30,7 +30,7 @@
         <div class="banner-body">
           <div class="continer-xxl">
             <div class="banner-content">
-              <h1>A place to relax and recharge your body, beauty & soul</h1>
+              <h1>Where science complements art Recharge, Rejuvenate, Revitalize </h1>
              <!--  <a class="btn btn-shop" href="javascript;;">Special Offers</a>
               <a class="btn btn-shop" href="javascript;;">Explore Clinic</a> -->
             </div>
@@ -63,8 +63,7 @@
                 <p>The Beauty Code Clinic</p>
               </div>
               <h2>
-                Oman's premier clinic - A symbiosis of the latest aesthetics
-                treatments & holistic experiences.
+               As Oman's foremost wellness sanctuary, we seamlessly integrate cutting-edge aesthetic treatments with enriching holistic experiences.
               </h2>
               <div class="hd-line"></div>
             </div>
@@ -107,19 +106,21 @@
                   </div>
                 </div>
                 <div class="about-site-con">
+<!--
                   <div class="about-site-hd">
                     <h6>About Us</h6>
                   </div>
+-->
                   <div class="about-highlight">
-                    <h5>We curate tailor made programs to</h5>
-                    <h3>Enhance wellbeing and longevity</h3>
-                    <h4>Well Span 200</h4>
+                    <h5>Explore our Comprehensive</h5>
+                    <h3> Wellness and Health Solutions</h3>
+<!--                    <h4>Well Span 200</h4>-->
                   </div>
+                    <h4>At Beauty Code, we are more than just a clinic - we are your oasis of rejuvenation and tranquility</h4>
                   <p>
-                    Established in 2022, the beauty code is combining
-                    integrative medicine and treatment programs based on
-                    comprehensive diagnostic and screenings to target the
-                    concern of each unique client.
+                    Welcome to Beauty Code Clinic - Your Gateway to Radiant Wellness and Beauty <br> <br>
+                      Step into a world where state-of-the-art medical aesthetics meet restorative wellness therapies. At Beauty Code Clinic, we champion a personalized approach to your beauty and well-being, offering an exceptional array of treatments tailored to your distinct needs. Unlock your natural allure and embrace renewed vitality with us.
+
                   </p>
                   <a class="btn btn-explore" href="about-us.php"
                     >Explore Clinic</a
@@ -320,8 +321,7 @@
               <div class="hd-line"></div>
               <div class="health-intro">
                 <p>
-                The Beauty code clinic is a wellness clinic recognized as a market leader in intravenous therapy offering preventive health solutions across the region.
-                </p>
+At Beauty Code Clinic, wellness is not just a service - it's our specialty. Renowned as a trailblazer in the field of intravenous therapy, we offer preventive health solutions that set industry benchmarks. Our presence resonates across the region, reflecting our commitment to pioneering holistic care.                </p>
               </div>
             </div>
           </div>

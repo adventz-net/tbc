@@ -101,22 +101,25 @@
                 <div class="service-it-con">
                   
                   <h4>
-                    The female balance drip is essential in balancing hormones and dealing with PMS, dysmenorrhea (painful periods),pregnancy and weight management issues. 
-</h4>
-                    <p> Observational and intervention studies show about the role of minerals in hormone bioactivity and the potential underlying mechanisms of minerals in test subjects.
-
-                  </p>
+Find harmony in your body's hormonal balance with our Female Balance Drip. </h4>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <p>This IV infusion is specifically designed to help manage hormonal imbalances, address discomfort associated with PMS and dysmenorrhea (painful periods), support pregnancy health, and aid weight management.</p>
+                    
+                    <p>Various observational and intervention studies highlight the role of minerals in hormone bioactivity and their potential underpinning mechanisms in maintaining hormonal balance.
+</p>
+                    
+                    <h4>Key Features of the Female Balance Drip:</h4>
                     
                     <ul>
-                    <li>Hormones and vitamins balancing</li>
-                    <li>Optimizing your overall fertility health</li>
+                    <li>Balances Hormones and Vitamins: This drip works to stabilize hormonal levels and replenish essential vitamins to promote overall wellness.
+</li>
+                    <li>Optimizes Fertility Health: By ensuring a balanced internal environment, our Female Balance Drip supports optimal fertility health.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    <p>Embrace the benefits of balanced hormones and improved overall health with our Female Balance Drip at Beauty Code Clinic. Experience the transformation of optimal hormonal balance towards a healthier, more comfortable you.</p>
+                    
+                 
                 </div>
               </div>
             </div>

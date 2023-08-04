@@ -25,7 +25,7 @@
           <div class="continer-xxl">
             <div class="ins-banner-content">
               <h5>Healthness</h5>
-              <h1>Booster Shots</h1>
+              <h1>Intra-muscular Booster Shots</h1>
               
             </div>
           </div>
@@ -91,7 +91,7 @@
                   >
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="images/vitamin-shot.jpg" alt="Image" />
+                        <img src="images/b-cm-img.jpg" alt="Image" />
                       </div>
                      
                     </div>
@@ -102,24 +102,31 @@
                 <div class="service-it-con">
                   
                   <h4>
-Boost energy, enhance hormone production, and support your immune defenses with this powerful blend of B vitamins.
+Supercharge Your System with Mixed B Shot: The Power Blend of B Vitamins
  </h4>
                     
-                    <p>The mixed B Shot is specifically formulated for enhancing your cellular energy levels.</p>
+                    <p>Revel in a burst of vitality with the Mixed B Shot, a powerhouse blend of B vitamins designed to boost your energy, enhance hormone production, and bolster your immune defenses. Created specifically to accelerate your cellular energy levels, this shot is the perfect pick-me-up to elevate your day.</p>
                     
-                    <h4>Highlights of Key Ingredients</h4>
+                    <h4>Here's how the Mixed B Shot enhances your health and wellbeing:</h4>
                     
                     <ul>
-                    <li>Healthy brain functions</li>
-                    <li>Healthy cell growth and enhancement</li>
-                        <li>Improve mood and cognitive function</li>
-                        <li>Support nerve functions</li>
-                        <li>Enhance cardiovascular & immune health</li>
+                    <li>Promotes Healthy Brain Functions: The Mixed B Shot is packed with nutrients that support brain health, enhancing cognitive function, and helping you stay razor-sharp and focused on your daily tasks.
+</li>
+                    <li>Supports Healthy Cell Growth and Enhancement: With a potent mix of B vitamins, this shot aids in healthy cell growth and enhancement, contributing to the overall wellbeing of your body.
+</li>
+                        <li>Improves Mood and Cognitive Function: Staying positive and mentally agile is crucial to living a fulfilling life. The Mixed B Shot contains vital nutrients that help uplift your mood and boost cognitive functions, keeping you happy and mentally agile.
+</li>
+                        <li>Supports Nerve Functions: Our nerves are vital for overall body function. The Mixed B Shot is specifically formulated to support nerve functions, ensuring your body communicates effectively within itself.
+</li>
+                        <li>Enhances Cardiovascular & Immune Health: The Mixed B Shot plays a crucial role in supporting cardiovascular health and fortifying your immune system - essential for a healthy, active life.
+</li>
                     </ul>
                     
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    <p>Mixed B Shot: Your all-in-one solution to boosted energy, enhanced brain function, and robust health. Take the shot and experience a new wave of vitality today.
+</p>
+                    
+                 
                 </div>
               </div>
             </div>

@@ -102,25 +102,32 @@
                 <div class="service-it-con">
                  
                   <h4>
-                    Meso infusion can restore soft, radiant and hydrated skin.
-                  </h4>
+Restore the vibrancy of soft, radiant, and hydrated skin with our MesoInfusion treatments. </h4>
                   <p>
-                    By incorporating nourishing ingredients cocktails, Meso
-                    infusion can treat a variety of skin concerns to reveal
-                    healthy, youthful skin.
+                  This procedure uses a cocktail of nourishing ingredients to address a variety of skin concerns, ultimately revealing a healthier, more youthful complexion.
                   </p>
-                  <h4>Main skin issues treated:</h4>
+                    
+                  <h4>MesoInfusion can effectively treat a multitude of skin issues, including:</h4>
+                    
                   <ul>
-                    <li>Fine lines and scars</li>
-                    <li>Acne</li>
-                    <li>Enlarged pores</li>
-                    <li>Hyperpigmentation</li>
-                    <li>Rough skin</li>
-                    <li>Dry or oily skin</li>
+                    <li>Fine Lines and Scars: Smooth out fine lines and lessen the visibility of scars, creating a more seamless complexion.
+</li>
+                    <li>Acne: Control and manage acne breakouts, promoting clearer, blemish-free skin.
+</li>
+                    <li>Enlarged Pores: Reduce the appearance of enlarged pores, leading to a more refined skin texture.
+</li>
+                    <li>Hyperpigmentation: Correct areas of skin discoloration, resulting in a more even skin tone.
+</li>
+                    <li>Rough Skin: Transform rough skin into a softer, smoother surface.
+</li>
+                    <li>Dry or Oily Skin: Balance out skin hydration levels, beneficial for both dry and oily skin types.
+</li>
                   </ul>
-                  <a class="btn btn-schedule" href="javascript:;"
-                    >Schedule an Appointment</a
-                  >
+                    
+                    
+                    <p>At Beauty Code Clinic, our MesoInfusion treatments provide a multifaceted approach to skincare. Catering to various skin types and concerns, we strive to help you uncover your skin's natural radiant beauty.</p>
+                    
+                 
                 </div>
               </div>
             </div>
